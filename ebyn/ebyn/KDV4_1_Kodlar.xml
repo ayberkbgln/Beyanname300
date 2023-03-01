@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref : TUIAB_O	oranlar/oran
+-->
+	<oranlar>
+		<oran>
+			<value>8</value>	
+			<text>8</text>
+		</oran>
+		<oran>
+			<value>18</value>	
+			<text>18</text>
+		</oran>
+		<oran>
+			<value>0</value>	
+			<text>İstisna</text>
+		</oran>
+	</oranlar>
+</kodlar>

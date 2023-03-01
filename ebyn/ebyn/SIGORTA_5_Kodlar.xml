@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: PUAV_APT 	police/paraTuru/kod
+	Ref: MKCVB_APT 	muhasebe/paraTuru/kod
+-->
+	<police>
+		<paraTuru>
+	     		<kod>101</kod>
+	         	<aciklama>Primler</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>102</kod>
+	         	<aciklama>İdare Masrafları, İstihsal Masrafları ve Gider Karşılıkları</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>103</kod>
+	         	<aciklama>Zeyilname</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>104</kod>
+	         	<aciklama>Faiz ve Paylar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	    	 	<kod>105</kod>
+	         	<aciklama>Diğer İşlemler</aciklama>
+		</paraTuru>
+	</police>
+	<muhasebe>
+		<paraTuru>
+	     		<kod>201</kod>
+	         	<aciklama>Faiz</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>202</kod>
+	         	<aciklama>Komisyon</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>203</kod>
+	         	<aciklama>Aciyo</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>204</kod>
+	         	<aciklama>Esham ve Tahvilat Satış Farkları</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>205</kod>
+	         	<aciklama>Esham ve Tahvilattan Faiz, İkramiye ve Temettü</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>206</kod>
+	         	<aciklama>Gayrimenkul Alım-Satım Farkları</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>207</kod>
+	         	<aciklama>Gayrimenkul Kiraları</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>211</kod>
+	         	<aciklama>Merkez Bankasınca İhraç Edilen Likidite  Senetlerinin Geri Alım Ve Satım Taahhüdü İle İktisap veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>212</kod>
+	         	<aciklama>Merkez Bankasınca İhraç Edilen Likidite  Senetlerinin Vadesi Beklenilmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>210</kod>
+	         	<aciklama>Müteferrik</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>213</kod>
+	         	<aciklama>Devlet Tahvili, Gelire Endeksli Senetler ve Hazine Bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerin Geri Alım ve Satım Taahhüdü İle İktisap Veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>214</kod>
+	         	<aciklama>Devlet Tahvili, Gelire Endeksli Senetler ve Hazine Bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerin Vadesi Beklenmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>215</kod>
+	         	<aciklama>Yurt içinde Türk Lirası Cinsinden İhraç Edilen Tahviller ve Varlık Kiralama Şirketleri Tarafından İhraç Edilen Kira Sertifikalarının Geri Alım ve Satım Taahhüdü ile İktisap veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>216</kod>
+	         	<aciklama>Yurt İçinde Türk Lirası Cinsinden İhraç Edilen Tahviller ve Varlık Kiralama Şirketleri Tarafından İhraç Edilen Kira Sertifikalarının Vadesi Beklenmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+		</paraTuru>
+	</muhasebe>
+	
+	<istisnaTurleriBSMV>
+		<data>
+			<kod>1</kod>
+			<aciklama>c-1) Hususi kanunlarla her türlü vergiden istisna edilmiş olan esham ve tahvillerin, faiz, temettü ve ikramiyeleri  </aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>c-2) Merkez Bankasınca ihraç edilen likidite senetlerinden elde edilen faiz gelirleri</aciklama>
+		</data>
+		<data>
+			<kod>3</kod>
+			<aciklama>c-3) 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunun 7/A maddesine göre kurulan varlık kiralama şirketleri tarafından ihraç edilen kira sertifikalarından elde edilen kira gelirleri ve vade sonunda lehe alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>4</kod>
+			<aciklama>e) Bankaların, bankerlerin ve sigorta şirketlerinin sermayelerinin tamamı kendilerine ait veya iştirakleri bulunan sınaî işletmelerden sağladıkları kârlar</aciklama>
+		</data>
+		<data>
+			<kod>5</kod>
+			<aciklama>f) Bankaların, bankerlerin ve sigorta şirketlerinin sermayelerine iştirak ettikleri banka, banker ve sigorta şirketlerinin 6802 sayılı Kanuna göre banka ve sigorta muameleleri vergisine tabi muamelelerden mütevellit karları</aciklama>
+		</data>
+		<data>
+			<kod>6</kod>
+			<aciklama>i-1) Emeklilik sözleşmelerinde sözleşme üzerinden alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>7</kod>
+			<aciklama>i-2-I) Hayat sigortalarında poliçe üzerinden alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>8</kod>
+			<aciklama>i-2-II) Hayat sigortalarında ferdi kaza teminatlarının ek teminat olarak verildiği sözleşmelerde ek teminata ilişkin poliçe üzerinden alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>9</kod>
+			<aciklama>i-2-III) Hayat sigortalarında hastalık sonucu maluliyet teminatlarının ek teminat olarak verildiği sözleşmelerde ek teminata ilişkin poliçe üzerinden alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>10</kod>
+			<aciklama>i-2-IV) Hayat sigortalarında tehlikeli hastalıklar teminatlarının ek teminat olarak verildiği sözleşmelerde ek teminata ilişkin poliçe üzerinden alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>11</kod>
+			<aciklama>i-3) Sağlık sigortalarında poliçe üzerinden alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>12</kod>
+			<aciklama>i-4) İhracata ait nakliyat sigortalarında poliçe üzerinden alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>13</kod>
+			<aciklama>i-5)  2499 sayılı Sermaye Piyasası Kanununun 38/A maddesinin birinci fıkrasında (6362 sayılı Sermaye Piyasası Kanununun 57. maddesinde) tanımlanan konut finansmanı kapsamında yapılan sigortalarda poliçe üzerinden alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>14</kod>
+			<aciklama>j-1) Mükerrer sigorta muameleleri dolayısıyla alınan prim, komisyon vesair paralar</aciklama>
+		</data>
+		<data>
+			<kod>15</kod>
+			<aciklama>j-2) Retrosesyon muameleleri dolayısıyla alınan prim, komisyon vesair paralar</aciklama>
+		</data>
+		<data>
+			<kod>16</kod>
+			<aciklama>k) Biçilmemiş veya toplanmamış her türlü tarım mahsulleriyle tarım hayvanları için akdolunan zirai sigortalar dolayısıyla alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>17</kod>
+			<aciklama>l) Nükleer rizikolara karşı yapılan sigortalar dolayısıyla alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>18</kod>
+			<aciklama>p-1) Arbitraj muameleleri ve bu muameleler sonucu lehe alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>19</kod>
+			<aciklama>p-2) Vadeli işlem ve opsiyon sözleşmelerine ilişkin muameleler ve bu muameleler sonucu lehe alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>20</kod>
+			<aciklama>p-2-I) Forward sözleşmelerine ilişkin muameleler ve bu muameleler sonucu lehe alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>21</kod>
+			<aciklama>p-2-II) Swap sözleşmelerine ilişkin muameleler ve bu muameleler sonucu lehe alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>22</kod>
+			<aciklama>p-2-III) Opsiyon sözleşmelerine ilişkin muameleler ve bu muameleler sonucu lehe alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>23</kod>
+			<aciklama>p-2-IV) Future sözleşmelerine ilişkin muameleler ve bu muameleler sonucu lehe alınan paralar</aciklama>
+		</data>
+		<data>
+			<kod>24</kod>
+			<aciklama>s)  Kurumlar Vergisi Kanununa göre yapılan birleşme, devir, bölünme ve hisse değişimi işlemlerinden doğan kazançlar</aciklama>
+		</data>
+		<data>
+			<kod>25</kod>
+			<aciklama>u) Bankalar, sigorta şirketleri, emeklilik şirketleri ve ipotek finansmanı kuruluşlarının kuruluşlarında veya sermayelerini artırdıkları sırada çıkardıkları hisse senetlerinin itibari değerlerinin üzerinde elden çıkarılması sonucu kendi lehlerine kalan paralar</aciklama>
+		</data><data>
+			<kod>26</kod>
+			<aciklama>v) 5422 sayılı Kurumlar Vergisi Kanununun 8 inci maddesinin birinci fıkrasının (12) numaralı bendi (5520 sayılı Kurumlar Vergisi Kanununun 5/1-e ve f maddeleri) kapsamındaki işlemler dolayısıyla lehe alınan paralar</aciklama>
+		</data>
+	</istisnaTurleriBSMV>
+	<istisnaTurleriDiger>
+		<data>
+			<kod>1</kod>
+			<aciklama>a) 99/13812 sayılı İhracat, İhracat Sayılan Satış ve Teslimler İle Döviz Kazandırıcı Hizmet ve Faaliyetlerde Vergi Resim Harç İstisna Hakkında Bakanlar Kurulu Kararı kapsamındaki işlemler</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>b) Diğer (İstisna uygulanması nedeniyle beyan edilmeyen her bir istisnalı işlem türü, kanun adı, kanuni dayanakları ile birlikte ayrı ayrı sütunlarda toplam rakamları ayrı ayrı olacak şekilde yazılacaktır.)</aciklama>
+		</data>
+	</istisnaTurleriDiger>
+	<sigortaIslemleri>
+		<data>
+			<kod>1</kod>
+			<aciklama>1. Hayat Dışı</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>     1.1. Kaza</aciklama>
+		</data>
+		<data>
+			<kod>3</kod>
+			<aciklama>     1.2. Hastalık/Sağlık</aciklama>
+		</data>
+		<data>
+			<kod>4</kod>
+			<aciklama>     1.3. Kara Araçları</aciklama>
+		</data>
+		<data>
+			<kod>5</kod>
+			<aciklama>     1.4. Raylı Araçlar</aciklama>
+		</data>
+		<data>
+			<kod>6</kod>
+			<aciklama>     1.5. Hava Araçları</aciklama>
+		</data>
+		<data>
+			<kod>7</kod>
+			<aciklama>     1.6. Su Araçları</aciklama>
+		</data>
+		<data>
+			<kod>8</kod>
+			<aciklama>     1.7. Nakliyat</aciklama>
+		</data>
+		<data>
+			<kod>9</kod>
+			<aciklama>     1.8. Yangın ve Doğal Afetler</aciklama>
+		</data>
+		<data>
+			<kod>10</kod>
+			<aciklama>     1.9. Genel Zararlar</aciklama>
+		</data>
+		<data>
+			<kod>11</kod>
+			<aciklama>     1.10. Kara Araçları Sorumluluk</aciklama>
+		</data>
+		<data>
+			<kod>12</kod>
+			<aciklama>     1.11. Hava Araçları Sorumluluk</aciklama>
+		</data>
+		<data>
+			<kod>13</kod>
+			<aciklama>     1.12. Su Araçları Sorumluluk</aciklama>
+		</data>
+		<data>
+			<kod>14</kod>
+			<aciklama>     1.13. Genel Sorumluluk</aciklama>
+		</data>
+		<data>
+			<kod>15</kod>
+			<aciklama>     1.14. Kredi</aciklama>
+		</data>
+		<data>
+			<kod>16</kod>
+			<aciklama>     1.15. Emniyet Suistimal</aciklama>
+		</data>
+		<data>
+			<kod>17</kod>
+			<aciklama>     1.16. Finansal Kayıplar</aciklama>
+		</data>
+		<data>
+			<kod>18</kod>
+			<aciklama>     1.17. Hukuksal Koruma</aciklama>
+		</data>
+		<data>
+			<kod>19</kod>
+			<aciklama>     1.18. Destek</aciklama>
+		</data>
+		<data>
+			<kod>20</kod>
+			<aciklama>     1.19. Diğer</aciklama>
+		</data>
+		<data>
+			<kod>21</kod>
+			<aciklama>2. Hayat</aciklama>
+		</data>
+		<data>
+			<kod>22</kod>
+			<aciklama>     2.1. Hayat</aciklama>
+		</data>
+		<data>
+			<kod>23</kod>
+			<aciklama>     2.2. Evlilik Sigortası, Doğum Sigortası</aciklama>
+		</data>
+		<data>
+			<kod>24</kod>
+			<aciklama>     2.3. Yatırım Fonlu Sigortalar</aciklama>
+		</data>
+		<data>
+			<kod>25</kod>
+			<aciklama>     2.4. Sermaye İtfa Sigortası</aciklama>
+		</data>
+		<data>
+			<kod>26</kod>
+			<aciklama>     2.5. Fonların Yönetimi İşlemi</aciklama>
+		</data>
+		<data>
+			<kod>27</kod>
+			<aciklama>     2.6. Kaza</aciklama>
+		</data>
+		<data>
+			<kod>28</kod>
+			<aciklama>     2.7. Hastalık/Sağlık</aciklama>
+		</data>
+		<data>
+			<kod>29</kod>
+			<aciklama>     2.8. Diğer</aciklama>
+		</data>
+	</sigortaIslemleri>
+	<sigortaIslemleriDiger>
+		<data>
+			<kod>1</kod>
+			<aciklama>1. Rücu İşlemleri</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>2. Sovtaj İşlemleri</aciklama>
+		</data>
+		<data>
+			<kod>3</kod>
+			<aciklama>3. Diğer İşlemler</aciklama>
+		</data>
+	</sigortaIslemleriDiger>
+
+</kodlar>

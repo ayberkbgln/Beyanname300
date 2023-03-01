@@ -1,0 +1,3265 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<beyannameler>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>35</versiyon>
+		<yayimTarihi>01.06.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>34</versiyon>
+		<yayimTarihi>01.11.2021</yayimTarihi>
+		<kaldirilisTarihi>31.05.2022</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>33</versiyon>
+		<yayimTarihi>01.07.2021</yayimTarihi>
+		<kaldirilisTarihi>31.10.2021</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>32</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>30.06.2021</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>31</versiyon>
+		<yayimTarihi>01.03.2019</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>30</versiyon>
+		<yayimTarihi>01.02.2019</yayimTarihi>
+		<kaldirilisTarihi>28.02.2019</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>29</versiyon>
+		<yayimTarihi>01.11.2018</yayimTarihi>
+	    <kaldirilisTarihi>31.01.2019</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>28</versiyon>
+		<yayimTarihi>01.06.2018</yayimTarihi>
+		<kaldirilisTarihi>31.10.2018</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>27</versiyon>
+		<yayimTarihi>01.11.2017</yayimTarihi>
+		<kaldirilisTarihi>31.05.2018</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>26</versiyon>
+		<yayimTarihi>01.05.2017</yayimTarihi>
+		<kaldirilisTarihi>31.10.2017</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>25</versiyon>
+		<yayimTarihi>01.04.2017</yayimTarihi>
+		<kaldirilisTarihi>30.04.2017</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>24</versiyon>
+		<yayimTarihi>01.02.2017</yayimTarihi>
+		<kaldirilisTarihi>31.03.2017</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>23</versiyon>
+		<yayimTarihi>01.01.2017</yayimTarihi>
+		<kaldirilisTarihi>31.01.2017</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>22</versiyon>
+		<yayimTarihi>01.09.2016</yayimTarihi>
+		<kaldirilisTarihi>31.12.2016</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>21</versiyon>
+		<yayimTarihi>01.07.2016</yayimTarihi>
+		<kaldirilisTarihi>31.08.2016</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>20</versiyon>
+		<yayimTarihi>01.04.2016</yayimTarihi>
+		<kaldirilisTarihi>30.06.2016</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>19</versiyon>
+		<yayimTarihi>01.03.2016</yayimTarihi>
+		<kaldirilisTarihi>31.03.2016</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>18</versiyon>
+		<yayimTarihi>01.12.2015</yayimTarihi>
+		<kaldirilisTarihi>29.02.2016</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>17</versiyon>
+		<yayimTarihi>01.09.2015</yayimTarihi>
+		<kaldirilisTarihi>30.11.2015</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>16</versiyon>
+		<yayimTarihi>01.08.2015</yayimTarihi>
+		<kaldirilisTarihi>31.08.2015</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV1</kod>
+		<versiyon>15</versiyon>
+		<yayimTarihi>01.02.2015</yayimTarihi>
+		<kaldirilisTarihi>31.07.2015</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>14</versiyon>
+		<yayimTarihi>01.06.2014</yayimTarihi>
+		<kaldirilisTarihi>31.01.2015</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>01.04.2013</yayimTarihi>
+		<kaldirilisTarihi>31.05.2014</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.01.2013</yayimTarihi>
+		<kaldirilisTarihi>31.03.2013</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.06.2012</yayimTarihi>
+		<kaldirilisTarihi>31.12.2012</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.04.2010</yayimTarihi>
+		<kaldirilisTarihi>31.05.2012</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.11.2009</yayimTarihi>
+		<kaldirilisTarihi>31.03.2010</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.04.2009</yayimTarihi>
+		<kaldirilisTarihi>31.10.2009</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>31.03.2009</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.08.2008</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.02.2008</yayimTarihi>
+		<kaldirilisTarihi>31.07.2008</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>31.01.2008</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.09.2005</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.01.2005</yayimTarihi>
+		<kaldirilisTarihi>31.08.2005</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV1</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>31.12.2004</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV2</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.06.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV2</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>08.02.2022</yayimTarihi>
+		<kaldirilisTarihi>31.05.2022</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV2</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>07.02.2022</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV2</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.11.2017</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV2</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.01.2017</yayimTarihi>
+		<kaldirilisTarihi>31.10.2017</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV2</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.06.2014</yayimTarihi>
+		<kaldirilisTarihi>31.12.2016</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV2</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.04.2013</yayimTarihi>
+		<kaldirilisTarihi>31.05.2014</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV2</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.03.2013</yayimTarihi>
+		<kaldirilisTarihi>31.03.2013</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV2</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.06.2012</yayimTarihi>
+		<kaldirilisTarihi>01.03.2013</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV2</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.07.2011</yayimTarihi>
+		<kaldirilisTarihi>31.05.2012</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV2</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>01.07.2011</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV2</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV2B</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.06.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV2B</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>31.05.2022</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV2B</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.05.2019</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 2</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV4</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.05.2019</yayimTarihi>
+		<kaldirilisTarihi>31.08.2020</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV4</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.09.2020</yayimTarihi>
+		<kaldirilisTarihi>30.06.2021</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV4</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.07.2021</yayimTarihi>
+		<kaldirilisTarihi>31.10.2021</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV4</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.11.2021</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Katma Değer Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV9015</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.11.2005</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Tevkifatı (9015)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KDV9015</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>01.07.2011</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Tevkifatı (9015)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV9015</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.07.2011</yayimTarihi>
+		<kaldirilisTarihi>31.05.2012</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Tevkifatı (9015)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV9015</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.06.2012</yayimTarihi>
+		<kaldirilisTarihi>01.03.2013</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Tevkifatı (9015)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV9015</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.03.2013</yayimTarihi>
+		<kaldirilisTarihi>31.03.2013</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Tevkifatı (9015)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV9015</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.04.2013</yayimTarihi>
+		<kaldirilisTarihi>31.05.2014</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Tevkifatı (9015)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV9015</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.06.2014</yayimTarihi>
+		<kaldirilisTarihi>31.10.2017</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Tevkifatı (9015)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV9015</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.11.2017</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Tevkifatı (9015)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV9015</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>31.05.2022</kaldirilisTarihi>
+		<adi>Katma Değer Vergisi Tevkifatı (9015)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KDV9015</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.06.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Katma Değer Vergisi Tevkifatı (9015)</adi>
+	</beyanname>
+	<beyanname>
+	     <kod>MUH</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>31.10.2005</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.11.2005</yayimTarihi>
+		<kaldirilisTarihi>31.03.2006</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.04.2006</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>31.03.2007</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.04.2007</yayimTarihi>
+		<kaldirilisTarihi>31.05.2007</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.06.2007</yayimTarihi>
+		<kaldirilisTarihi>31.01.2008</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.02.2008</yayimTarihi>
+		<kaldirilisTarihi>31.01.2008</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.02.2008</yayimTarihi>
+		<kaldirilisTarihi>30.04.2008</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.05.2008</yayimTarihi>
+		<kaldirilisTarihi>28.02.2009</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.03.2009</yayimTarihi>
+		<kaldirilisTarihi>31.03.2009</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.04.2009</yayimTarihi>
+		<kaldirilisTarihi>31.07.2009</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.08.2009</yayimTarihi>
+		<kaldirilisTarihi>31.10.2009</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>01.11.2009</yayimTarihi>
+		<kaldirilisTarihi>31.07.2010</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>14</versiyon>
+		<yayimTarihi>01.08.2010</yayimTarihi>
+		<kaldirilisTarihi>31.03.2011</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>15</versiyon>
+		<yayimTarihi>01.04.2011</yayimTarihi>
+		<kaldirilisTarihi>31.03.2012</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>16</versiyon>
+		<yayimTarihi>01.04.2012</yayimTarihi>
+		<kaldirilisTarihi>30.04.2012</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>17</versiyon>
+		<yayimTarihi>01.05.2012</yayimTarihi>
+		<kaldirilisTarihi>31.05.2012</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>18</versiyon>
+		<yayimTarihi>01.06.2012</yayimTarihi>
+		<kaldirilisTarihi>30.06.2012</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>19</versiyon>
+		<yayimTarihi>01.07.2012</yayimTarihi>
+		<kaldirilisTarihi>30.11.2012</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>20</versiyon>
+		<yayimTarihi>01.12.2012</yayimTarihi>
+		<kaldirilisTarihi>31.01.2013</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>21</versiyon>
+		<yayimTarihi>01.02.2013</yayimTarihi>
+		<kaldirilisTarihi>31.03.2013</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>22</versiyon>
+		<yayimTarihi>01.04.2013</yayimTarihi>
+		<kaldirilisTarihi>30.04.2013</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>23</versiyon>
+		<yayimTarihi>01.05.2013</yayimTarihi>
+		<kaldirilisTarihi>31.12.2013</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>24</versiyon>
+		<yayimTarihi>01.01.2014</yayimTarihi>
+		<kaldirilisTarihi>30.04.2014</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>25</versiyon>
+		<yayimTarihi>01.05.2014</yayimTarihi>
+		<kaldirilisTarihi>31.01.2015</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>26</versiyon>
+		<yayimTarihi>01.02.2015</yayimTarihi>
+		<kaldirilisTarihi>30.06.2015</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>27</versiyon>
+		<yayimTarihi>01.07.2015</yayimTarihi>
+		<kaldirilisTarihi>31.01.2016</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>28</versiyon>
+		<yayimTarihi>01.02.2016</yayimTarihi>
+		<kaldirilisTarihi>30.11.2016</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>29</versiyon>
+		<yayimTarihi>01.12.2016</yayimTarihi>
+		<kaldirilisTarihi>28.02.2017</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>30</versiyon>
+		<yayimTarihi>01.03.2017</yayimTarihi>
+		<kaldirilisTarihi>30.06.2017</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>31</versiyon>
+		<yayimTarihi>01.07.2017</yayimTarihi>
+		<kaldirilisTarihi>28.02.2018</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>32</versiyon>
+		<yayimTarihi>01.03.2018</yayimTarihi>
+		<kaldirilisTarihi>31.03.2018</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>33</versiyon>
+		<yayimTarihi>01.04.2018</yayimTarihi>
+		<kaldirilisTarihi>31.05.2018</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>34</versiyon>
+		<yayimTarihi>01.06.2018</yayimTarihi>
+		<kaldirilisTarihi>31.01.2019</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>35</versiyon>
+		<yayimTarihi>01.02.2019</yayimTarihi>
+		<kaldirilisTarihi>31.07.2019</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH</kod>
+		<versiyon>36</versiyon>
+		<yayimTarihi>01.08.2019</yayimTarihi>
+		<kaldirilisTarihi>31.01.2020</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.02.2012</yayimTarihi>
+		<kaldirilisTarihi>31.03.2012</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.04.2012</yayimTarihi>
+		<kaldirilisTarihi>30.04.2012</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.05.2012</yayimTarihi>
+		<kaldirilisTarihi>31.05.2012</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.06.2012</yayimTarihi>
+		<kaldirilisTarihi>30.06.2012</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.07.2012</yayimTarihi>
+		<kaldirilisTarihi>30.11.2012</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.12.2012</yayimTarihi>
+		<kaldirilisTarihi>31.01.2013</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.02.2013</yayimTarihi>
+		<kaldirilisTarihi>31.03.2013</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.04.2013</yayimTarihi>
+		<kaldirilisTarihi>30.04.2013</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.05.2013</yayimTarihi>
+		<kaldirilisTarihi>31.08.2013</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.09.2013</yayimTarihi>
+		<kaldirilisTarihi>31.12.2013</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.01.2014</yayimTarihi>
+		<kaldirilisTarihi>30.04.2014</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.05.2014</yayimTarihi>
+		<kaldirilisTarihi>31.01.2015</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>01.02.2015</yayimTarihi>
+		<kaldirilisTarihi>30.06.2015</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>14</versiyon>
+		<yayimTarihi>01.07.2015</yayimTarihi>
+		<kaldirilisTarihi>31.01.2016</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>15</versiyon>
+		<yayimTarihi>01.02.2016</yayimTarihi>
+		<kaldirilisTarihi>30.11.2016</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>16</versiyon>
+		<yayimTarihi>01.12.2016</yayimTarihi>
+		<kaldirilisTarihi>28.02.2017</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>17</versiyon>
+		<yayimTarihi>01.03.2017</yayimTarihi>
+		<kaldirilisTarihi>28.02.2018</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>18</versiyon>
+		<yayimTarihi>01.03.2018</yayimTarihi>
+		<kaldirilisTarihi>31.03.2018</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>19</versiyon>
+		<yayimTarihi>01.04.2018</yayimTarihi>
+		<kaldirilisTarihi>31.05.2018</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>20</versiyon>
+		<yayimTarihi>01.06.2018</yayimTarihi>
+		<kaldirilisTarihi>31.01.2019</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>21</versiyon>
+		<yayimTarihi>01.02.2019</yayimTarihi>
+		<kaldirilisTarihi>31.07.2019</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+		<beyanname>
+	    <kod>MUHGVK281</kod>
+		<versiyon>22</versiyon>
+		<yayimTarihi>01.08.2019</yayimTarihi>
+		<kaldirilisTarihi>31.01.2020</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVKSGK</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.02.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2020</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVKSGK</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.04.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVKSGK</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>31.05.2021</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVKSGK</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.06.2021</yayimTarihi>
+		<kaldirilisTarihi>30.11.2021</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVKSGK</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.12.2021</yayimTarihi>
+		<kaldirilisTarihi>31.01.2022</kaldirilisTarihi>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUHGVKSGK</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.02.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>G.V.K. 281 No'lu Genel Tebliği Kapsamında Şube Bazında Bildirim</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH24</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>31.03.2007</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K 24. Maddelerine Göre Yapılan Tevkifatlar için)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH24</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.11.2004</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K 24. Maddelerine Göre Yapılan Tevkifatlar için)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH67</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.04.2006</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Muhtasar Beyanname (G.V.K Geçici 67. Maddesine Göre Yapılan Tevkifatlar için)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH67EK</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>13.10.2006</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Muhtasar Beyanname Ek2 ve Ek3 (G.V.K Geçici 67. Maddesine Göre Yapılan Tevkifatlar için)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH67EK</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>13.10.2006</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname Ek2 ve Ek3 (G.V.K Geçici 67. Maddesine Göre Yapılan Tevkifatlar için)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH67EK</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.04.2006</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname Ek2 ve Ek3 (G.V.K Geçici 67. Maddesine Göre Yapılan Tevkifatlar için)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.02.2019</yayimTarihi>
+		<kaldirilisTarihi>31.01.2022</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>01.02.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.08.2009</yayimTarihi>
+		<kaldirilisTarihi>30.04.2014</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.05.2014</yayimTarihi>
+		<kaldirilisTarihi>31.01.2015</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.02.2015</yayimTarihi>
+		<kaldirilisTarihi>30.06.2015</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.07.2015</yayimTarihi>
+		<kaldirilisTarihi>31.01.2016</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.02.2016</yayimTarihi>
+		<kaldirilisTarihi>30.11.2016</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.12.2016</yayimTarihi>
+		<kaldirilisTarihi>28.02.2017</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.03.2017</yayimTarihi>
+		<kaldirilisTarihi>28.02.2018</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.03.2018</yayimTarihi>
+		<kaldirilisTarihi>31.03.2018</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.04.2018</yayimTarihi>
+		<kaldirilisTarihi>31.07.2018</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.08.2018</yayimTarihi>
+		<kaldirilisTarihi>31.01.2019</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH30</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.02.2019</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Muhtasar Beyanname (K.V.K. 15 inci ve 30 uncu Maddesine Göre Yapılan Tevkifatlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH9213</kod>
+		<versiyon>27</versiyon>
+		<yayimTarihi>01.07.2015</yayimTarihi>
+		<kaldirilisTarihi>28.02.2017</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (Mükellefiyetsiz)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MUH9213</kod>
+		<versiyon>28</versiyon>
+		<yayimTarihi>01.03.2017</yayimTarihi>
+		<kaldirilisTarihi>31.07.2017</kaldirilisTarihi>
+		<adi>Muhtasar Beyanname (Mükellefiyetsiz)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BANKA</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>31.10.2005</kaldirilisTarihi>
+		<adi>Banka Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BANKA</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.11.2005</yayimTarihi>
+		<kaldirilisTarihi>31.05.2007</kaldirilisTarihi>		
+		<adi>Banka Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BANKA</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>05.06.2007</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Banka Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BANKA</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>31.07.2009</kaldirilisTarihi>		
+		<adi>Banka Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BANKA</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.08.2009</yayimTarihi>
+		<kaldirilisTarihi>31.08.2009</kaldirilisTarihi>		
+		<adi>Banka Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BANKA</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.09.2009</yayimTarihi>
+		<kaldirilisTarihi>31.10.2009</kaldirilisTarihi>
+		<adi>Banka Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BANKA</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.11.2009</yayimTarihi>
+		<kaldirilisTarihi>31.01.2012</kaldirilisTarihi>
+		<adi>Banka Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+		<beyanname>
+	    <kod>BANKA</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.02.2012</yayimTarihi>
+		<kaldirilisTarihi>31.08.2016</kaldirilisTarihi>
+		<adi>Banka Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BANKA</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.09.2016</yayimTarihi>
+		<kaldirilisTarihi>31.01.2021</kaldirilisTarihi>
+		<adi>Banka Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BANKA</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.02.2021</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Banka Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>SIGORTA</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>31.05.2007</kaldirilisTarihi>
+		<adi>Sigorta Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>SIGORTA</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>05.06.2007</yayimTarihi>
+		<kaldirilisTarihi>31.10.2009</kaldirilisTarihi>
+		<adi>Sigorta Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>SIGORTA</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.11.2009</yayimTarihi>
+		<kaldirilisTarihi>31.05.2019</kaldirilisTarihi>
+		<adi>Sigorta Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>SIGORTA</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.06.2019</yayimTarihi>
+		<kaldirilisTarihi>31.01.2021</kaldirilisTarihi>
+		<adi>Sigorta Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+		<beyanname>
+	    <kod>SIGORTA</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.02.2021</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Sigorta Muameleleri Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>DAMGA</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>31.10.2013</kaldirilisTarihi>
+		<adi>Damga Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>DAMGA</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.11.2013</yayimTarihi>
+		<kaldirilisTarihi>31.12.2013</kaldirilisTarihi>
+		<adi>Damga Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>DAMGA</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.01.2014</yayimTarihi>
+		<kaldirilisTarihi>31.08.2016</kaldirilisTarihi>
+		<adi>Damga Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>DAMGA</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.09.2016</yayimTarihi>
+		<kaldirilisTarihi>30.04.2017</kaldirilisTarihi>
+		<adi>Damga Vergisi Beyanname</adi>
+	</beyanname>
+		<beyanname>
+	    <kod>DAMGA</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.05.2017</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Damga Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>36</versiyon>
+		<yayimTarihi>01.02.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>35</versiyon>
+		<yayimTarihi>01.09.2021</yayimTarihi>
+		<kaldirilisTarihi>31.01.2022</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>34</versiyon>
+		<yayimTarihi>16.03.2021</yayimTarihi>
+		<kaldirilisTarihi>31.08.2021</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>33</versiyon>
+		<yayimTarihi>01.02.2019</yayimTarihi>
+		<kaldirilisTarihi>15.03.2021</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>32</versiyon>
+		<yayimTarihi>16.12.2018</yayimTarihi>
+		<kaldirilisTarihi>31.01.2019</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>31</versiyon>
+		<yayimTarihi>16.06.2018</yayimTarihi>
+		<kaldirilisTarihi>15.12.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>30</versiyon>
+		<yayimTarihi>16.04.2018</yayimTarihi>
+		<kaldirilisTarihi>15.06.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>29</versiyon>
+		<yayimTarihi>01.04.2018</yayimTarihi>
+		<kaldirilisTarihi>15.04.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>28</versiyon>
+		<yayimTarihi>16.02.2018</yayimTarihi>
+		<kaldirilisTarihi>31.03.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>27</versiyon>
+		<yayimTarihi>16.01.2018</yayimTarihi>
+		<kaldirilisTarihi>15.02.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>26</versiyon>
+		<yayimTarihi>16.08.2017</yayimTarihi>
+		<kaldirilisTarihi>15.01.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>25</versiyon>
+		<yayimTarihi>01.12.2016</yayimTarihi>
+		<kaldirilisTarihi>15.08.2017</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>24</versiyon>
+		<yayimTarihi>01.10.2016</yayimTarihi>
+		<kaldirilisTarihi>30.11.2016</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>23</versiyon>
+		<yayimTarihi>16.06.2016</yayimTarihi>
+		<kaldirilisTarihi>30.09.2016</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>22</versiyon>
+		<yayimTarihi>01.02.2016</yayimTarihi>
+		<kaldirilisTarihi>15.06.2016</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>21</versiyon>
+		<yayimTarihi>16.07.2015</yayimTarihi>
+		<kaldirilisTarihi>31.01.2016</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>20</versiyon>
+		<yayimTarihi>01.05.2015</yayimTarihi>
+		<kaldirilisTarihi>15.07.2015</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>19</versiyon>
+		<yayimTarihi>01.04.2015</yayimTarihi>
+		<kaldirilisTarihi>30.04.2015</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>18</versiyon>
+		<yayimTarihi>01.01.2015</yayimTarihi>
+		<kaldirilisTarihi>31.03.2015</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>17</versiyon>
+		<yayimTarihi>01.11.2014</yayimTarihi>
+		<kaldirilisTarihi>31.12.2014</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>16</versiyon>
+		<yayimTarihi>16.05.2014</yayimTarihi>
+		<kaldirilisTarihi>15.10.2014</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>15</versiyon>
+		<yayimTarihi>05.05.2014</yayimTarihi>
+		<kaldirilisTarihi>15.05.2014</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>14</versiyon>
+		<yayimTarihi>16.02.2014</yayimTarihi>
+		<kaldirilisTarihi>30.04.2014</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>01.08.2013</yayimTarihi>
+		<kaldirilisTarihi>15.02.2014</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>16.06.2013</yayimTarihi>
+		<kaldirilisTarihi>31.07.2013</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>16.02.2013</yayimTarihi>
+		<kaldirilisTarihi>15.06.2013</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.10.2011</yayimTarihi>
+		<kaldirilisTarihi>15.02.2013</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV1</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>16.03.2011</yayimTarihi>
+		<kaldirilisTarihi>30.09.2011</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV1</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>16.03.2010</yayimTarihi>
+		<kaldirilisTarihi>15.03.2011</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV1</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>16.11.2008</yayimTarihi>
+		<kaldirilisTarihi>15.03.2010</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV1</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>16.08.2008</yayimTarihi>
+		<kaldirilisTarihi>15.11.2008</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV1</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>16.07.2008</yayimTarihi>
+		<kaldirilisTarihi>15.08.2008</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV1</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.09.2006</yayimTarihi>
+		<kaldirilisTarihi>15.07.2008</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV1</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>31.08.2006</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV1</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.11.2004</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV1</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>31.10.2004</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 1</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV2B</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>31.03.2011</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 2B</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV2B</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.04.2011</yayimTarihi>
+		<kaldirilisTarihi>31.03.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 2B</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV2B</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.04.2018</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Özel Tüketim Vergisi Beyanname 2B</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3A</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.11.2018</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Alkollü İçkiler)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3A</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.02.2011</yayimTarihi>
+		<kaldirilisTarihi>31.10.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Alkollü İçkiler)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3A</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.06.2005</yayimTarihi>
+		<kaldirilisTarihi>31.01.2011</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Alkollü İçkiler)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3A</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>31.05.2005</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Alkollü İçkiler)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV3B</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>01.05.2021</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri ve Makaron)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV3B</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.11.2018</yayimTarihi>
+		<kaldirilisTarihi>30.04.2021</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri ve Makaron)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV3B</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.04.2018</yayimTarihi>
+		<kaldirilisTarihi>31.10.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV3B</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.01.2018</yayimTarihi>
+		<kaldirilisTarihi>31.03.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri)</adi>
+	</beyanname>	
+	<beyanname>
+		<kod>OTV3B</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.02.2017</yayimTarihi>
+		<kaldirilisTarihi>31.12.2017</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV3B</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.11.2015</yayimTarihi>
+		<kaldirilisTarihi>31.01.2017</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV3B</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.03.2015</yayimTarihi>
+		<kaldirilisTarihi>31.10.2015</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3B</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.02.2013</yayimTarihi>
+        <kaldirilisTarihi>28.02.2015</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3B</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.02.2011</yayimTarihi>
+		<kaldirilisTarihi>31.01.2013</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3B</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.08.2008</yayimTarihi>
+		<kaldirilisTarihi>31.01.2011</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri ve Makaron)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3B</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.09.2005</yayimTarihi>
+		<kaldirilisTarihi>31.07.2008</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3B</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.06.2005</yayimTarihi>
+		<kaldirilisTarihi>31.08.2005</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3B</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>31.05.2005</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Tütün Mamulleri)</adi>
+	</beyanname>
+	<beyanname>
+	     <kod>OTV3C</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.11.2018</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Alkolsuz İçecekler)</adi>
+	</beyanname>
+	<beyanname>
+	     <kod>OTV3C</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.01.2018</yayimTarihi>
+		<kaldirilisTarihi>31.10.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Kolalı Gazozlar)</adi>
+	</beyanname>
+	<beyanname>
+	     <kod>OTV3C</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.11.2015</yayimTarihi>
+		<kaldirilisTarihi>31.10.2015</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Kolalı Gazozlar)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV3C</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.06.2005</yayimTarihi>
+		<kaldirilisTarihi>31.10.2015</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 3 (Kolalı Gazozlar)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>01.05.2006</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.05.2006</yayimTarihi>
+		<kaldirilisTarihi>31.07.2008</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.08.2008</yayimTarihi>
+		<kaldirilisTarihi>31.03.2011</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.04.2011</yayimTarihi>
+		<kaldirilisTarihi>30.11.2011</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.12.2011</yayimTarihi>
+		<kaldirilisTarihi>31.10.2015</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>	
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.11.2015</yayimTarihi>
+		<kaldirilisTarihi>31.01.2016</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.02.2016</yayimTarihi>
+		<kaldirilisTarihi>31.08.2016</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.09.2016</yayimTarihi>
+		<kaldirilisTarihi>31.05.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.06.2018</yayimTarihi>
+		<kaldirilisTarihi>31.10.2018</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.11.2018</yayimTarihi>
+		<kaldirilisTarihi>31.01.2020</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OTV4</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.02.2020</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Özel Tüketim Vergisi Beyanname 4</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OIV</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>30.11.2005</kaldirilisTarihi>
+		<adi>Özel İletişim Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OIV</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.12.2005</yayimTarihi>
+		<kaldirilisTarihi>31.12.2017</kaldirilisTarihi>
+		<adi>Özel İletişim Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>OIV</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.01.2018</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Özel İletişim Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>SANS</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2004</yayimTarihi>
+		<kaldirilisTarihi>30.04.2007</kaldirilisTarihi>
+		<adi>Şans Oyunları Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>SANS</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.05.2007</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Şans Oyunları Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GMSI</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.03.2005</yayimTarihi>
+		<kaldirilisTarihi>28.02.2006</kaldirilisTarihi>
+		<adi>Gayrimenkul Sermaye İradı Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GMSI</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.03.2006</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Gayrimenkul Sermaye İradı Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GMSI</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Gayrimenkul Sermaye İradı Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GMSI</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>28.02.2009</kaldirilisTarihi>
+		<adi>Gayrimenkul Sermaye İradı Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GMSI</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.03.2009</yayimTarihi>
+		<kaldirilisTarihi>28.02.2010</kaldirilisTarihi>
+		<adi>Gayrimenkul Sermaye İradı Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GMSI</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.03.2010</yayimTarihi>
+		<kaldirilisTarihi>29.02.2012</kaldirilisTarihi>
+		<adi>Gayrimenkul Sermaye İradı Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GMSI</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.03.2012</yayimTarihi>
+		<kaldirilisTarihi>28.02.2013</kaldirilisTarihi>
+		<adi>Gayrimenkul Sermaye İradı Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GMSI</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.03.2013</yayimTarihi>
+		<kaldirilisTarihi>28.02.2014</kaldirilisTarihi>
+		<adi>Gayrimenkul Sermaye İradı Beyanname</adi>
+	</beyanname>
+    <beyanname>
+        <kod>GMSI</kod>
+        <versiyon>9</versiyon>
+        <yayimTarihi>01.03.2014</yayimTarihi>
+		<kaldirilisTarihi>28.02.2015</kaldirilisTarihi>
+        <adi>Gayrimenkul Sermaye İradı Beyanname</adi>
+    </beyanname>
+    <beyanname>
+        <kod>GMSI</kod>
+        <versiyon>10</versiyon>
+        <yayimTarihi>01.03.2015</yayimTarihi>
+		<kaldirilisTarihi>29.02.2016</kaldirilisTarihi>
+        <adi>Gayrimenkul Sermaye İradı Beyanname</adi>
+    </beyanname>	
+	<beyanname>
+        <kod>GMSI</kod>
+        <versiyon>11</versiyon>
+        <yayimTarihi>01.03.2016</yayimTarihi>
+        <kaldirilisTarihi>28.02.2017</kaldirilisTarihi>
+        <adi>Yıllık Gelir (GMSİ + MSİ + ÜCRET + DKİ)</adi>
+    </beyanname>
+	<beyanname>
+        <kod>GMSI</kod>
+        <versiyon>12</versiyon>
+        <yayimTarihi>01.03.2017</yayimTarihi>
+        <kaldirilisTarihi>28.02.2018</kaldirilisTarihi>
+        <adi>Yıllık Gelir (GMSİ + MSİ + ÜCRET + DKİ)</adi>
+    </beyanname>
+	<beyanname>
+        <kod>GMSI</kod>
+        <versiyon>13</versiyon>
+        <yayimTarihi>01.03.2018</yayimTarihi>
+        <kaldirilisTarihi>28.02.2019</kaldirilisTarihi>
+        <adi>Yıllık Gelir (GMSİ + MSİ + ÜCRET + DKİ)</adi>
+    </beyanname>
+	<beyanname>
+        <kod>GMSI</kod>
+        <versiyon>14</versiyon>
+        <yayimTarihi>01.03.2019</yayimTarihi>
+        <kaldirilisTarihi/>
+        <adi>Yıllık Gelir (GMSİ + MSİ + ÜCRET + DKİ)</adi>
+    </beyanname>
+	<beyanname>
+		<kod>GMSI</kod>
+		<versiyon>15</versiyon>
+		<yayimTarihi>01.03.2020</yayimTarihi>
+		<kaldirilisTarihi>28.02.2021</kaldirilisTarihi>
+		<adi>Yıllık Gelir (GMSİ + MSİ + ÜCRET + DKİ)</adi>
+	</beyanname>
+    <beyanname>
+        <kod>GMSI</kod>
+        <versiyon>16</versiyon>
+        <yayimTarihi>01.03.2021</yayimTarihi>
+        <kaldirilisTarihi>28.02.2022</kaldirilisTarihi>
+        <adi>Yıllık Gelir (GMSİ + MSİ + ÜCRET + DKİ)</adi>
+    </beyanname>
+    <beyanname>
+        <kod>GMSI</kod>
+        <versiyon>17</versiyon>
+        <yayimTarihi>01.03.2022</yayimTarihi>
+        <kaldirilisTarihi/>
+        <adi>Yıllık Gelir (GMSİ + MSİ + ÜCRET + DKİ)</adi>
+    </beyanname>
+	<beyanname>
+	    <kod>BASIT</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.02.2005</yayimTarihi>
+		<kaldirilisTarihi>31.01.2006</kaldirilisTarihi>
+		<adi>Basit Usul Ticari Kazanç Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BASIT</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.02.2006</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Basit Usul Ticari Kazanç Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>BASIT</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>31.01.2013</kaldirilisTarihi>
+		<adi>Basit Usul Ticari Kazanç Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>BASIT</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.02.2013</yayimTarihi>
+		<kaldirilisTarihi>31.01.2014</kaldirilisTarihi>
+		<adi>Basit Usul Ticari Kazanç Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>BASIT</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.02.2014</yayimTarihi>
+		<kaldirilisTarihi>31.01.2015</kaldirilisTarihi>
+		<adi>Basit Usul Ticari Kazanç Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>BASIT</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.02.2015</yayimTarihi>
+		<kaldirilisTarihi>31.01.2017</kaldirilisTarihi>
+		<adi>Basit Usul Ticari Kazanç Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>BASIT</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.02.2017</yayimTarihi>
+		<kaldirilisTarihi>31.01.2018</kaldirilisTarihi>
+		<adi>Basit Usul Ticari Kazanç Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>BASIT</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.02.2018</yayimTarihi>
+		<kaldirilisTarihi>31.01.2019</kaldirilisTarihi>
+		<adi>Basit Usul Ticari Kazanç Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.03.2005</yayimTarihi>
+		<kaldirilisTarihi>28.02.2006</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.03.2006</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>28.02.2007</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.03.2007</yayimTarihi>
+		<kaldirilisTarihi>29.02.2008</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.03.2008</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>28.02.2009</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.03.2009</yayimTarihi>
+		<kaldirilisTarihi>28.02.2010</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.03.2010</yayimTarihi>
+		<kaldirilisTarihi>28.02.2011</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.03.2011</yayimTarihi>
+		<kaldirilisTarihi>28.02.2013</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.03.2013</yayimTarihi>
+		<kaldirilisTarihi>28.02.2014</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.03.2014</yayimTarihi>
+		<kaldirilisTarihi>28.02.2015</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GELIR</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.03.2015</yayimTarihi>
+		<kaldirilisTarihi>29.02.2016</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname> 
+		<kod>GELIR</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>01.03.2016</yayimTarihi>
+		<kaldirilisTarihi>31.07.2016</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname> 
+		<kod>GELIR</kod>
+		<versiyon>14</versiyon>
+		<yayimTarihi>01.08.2016</yayimTarihi>
+		<kaldirilisTarihi>28.02.2017</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+		<beyanname> 
+		<kod>GELIR</kod>
+		<versiyon>15</versiyon>
+		<yayimTarihi>01.03.2017</yayimTarihi>
+		<kaldirilisTarihi>28.02.2018</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname> 
+		<kod>GELIR</kod>
+		<versiyon>16</versiyon>
+		<yayimTarihi>01.03.2018</yayimTarihi>
+		<kaldirilisTarihi>28.02.2019</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname> 
+		<kod>GELIR</kod>
+		<versiyon>17</versiyon>
+		<yayimTarihi>01.03.2019</yayimTarihi>
+		<kaldirilisTarihi>29.02.2020</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname> 
+		<kod>GELIR</kod>
+		<versiyon>18</versiyon>
+		<yayimTarihi>01.03.2020</yayimTarihi>
+		<kaldirilisTarihi>28.02.2021</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>GELIR</kod>
+		<versiyon>19</versiyon>
+		<yayimTarihi>01.03.2021</yayimTarihi>
+		<kaldirilisTarihi>28.01.2022</kaldirilisTarihi>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>GELIR</kod>
+		<versiyon>20</versiyon>
+		<yayimTarihi>01.03.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Yıllık Gelir Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.04.2005</yayimTarihi>
+		<kaldirilisTarihi>31.03.2006</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.04.2006</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>31.03.2007</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.04.2007</yayimTarihi>
+		<kaldirilisTarihi>31.12.2007</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+      <beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.01.2008</yayimTarihi>
+		<kaldirilisTarihi>31.03.2008</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+      <beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.04.2008</yayimTarihi>
+		<kaldirilisTarihi>15.07.2008</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>16.07.2008</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>31.03.2009</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.04.2009</yayimTarihi>
+		<kaldirilisTarihi>31.03.2010</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.04.2010</yayimTarihi>
+		<kaldirilisTarihi>30.11.2010</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.12.2010</yayimTarihi>
+		<kaldirilisTarihi>31.03.2011</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.04.2011</yayimTarihi>
+		<kaldirilisTarihi>31.03.2011</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>01.04.2012</yayimTarihi>
+		<kaldirilisTarihi>31.03.2013</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>14</versiyon>
+		<yayimTarihi>01.04.2013</yayimTarihi>
+		<kaldirilisTarihi>31.03.2014</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>15</versiyon>
+		<yayimTarihi>01.04.2014</yayimTarihi>
+		<kaldirilisTarihi>31.03.2015</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>16</versiyon>
+		<yayimTarihi>01.04.2015</yayimTarihi>
+		<kaldirilisTarihi>31.03.2016</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>17</versiyon>
+		<yayimTarihi>01.04.2016</yayimTarihi>
+		<kaldirilisTarihi>31.07.2016</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>18</versiyon>
+		<yayimTarihi>01.08.2016</yayimTarihi>
+		<kaldirilisTarihi>31.03.2017</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>19</versiyon>
+		<yayimTarihi>01.04.2017</yayimTarihi>
+		<kaldirilisTarihi>31.03.2018</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>20</versiyon>
+		<yayimTarihi>01.04.2018</yayimTarihi>
+		<kaldirilisTarihi>31.03.2019</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+    <beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>21</versiyon>
+		<yayimTarihi>01.04.2019</yayimTarihi>
+		<kaldirilisTarihi>31.03.2020</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KURUMLAR</kod>
+		<versiyon>22</versiyon>
+		<yayimTarihi>01.04.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KURUMLAR</kod>
+		<versiyon>23</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>31.03.2022</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KURUMLAR</kod>
+		<versiyon>24</versiyon>
+		<yayimTarihi>01.04.2022</yayimTarihi>
+		<kaldirilisTarihi>30.04.2022</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KURUMLAR</kod>
+		<versiyon>25</versiyon>
+		<yayimTarihi>01.05.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Kurumlar Vergisi Beyanname</adi>
+	</beyanname>
+    <beyanname>
+	    <kod>MEPKURUM</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>25.04.2007</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>MEP İştirakçileri Kurumlar Vergisi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MEPKURUM</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>31.03.2019</kaldirilisTarihi>
+		<adi>MEP İştirakçileri Kurumlar Vergisi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>MEPKURUM</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.04.2019</yayimTarihi>
+		<kaldirilisTarihi>21.04.2021</kaldirilisTarihi>
+		<adi>MEP İştirakçileri Kurumlar Vergisi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MEPKURUM</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>22.04.2021</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>MEP İştirakçileri Kurumlar Vergisi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>20</versiyon>
+		<yayimTarihi>01.07.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>19</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>30.06.2022</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>18</versiyon>
+		<yayimTarihi>01.07.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>17</versiyon>
+		<yayimTarihi>01.04.2020</yayimTarihi>
+		<kaldirilisTarihi>30.06.2020</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>16</versiyon>
+		<yayimTarihi>01.07.2018</yayimTarihi>
+		<kaldirilisTarihi>31.03.2020</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>15</versiyon>
+		<yayimTarihi>01.10.2017</yayimTarihi>
+		<kaldirilisTarihi>30.06.2018</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>14</versiyon>
+		<yayimTarihi>01.07.2017</yayimTarihi>
+		<kaldirilisTarihi>30.09.2017</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>01.01.2017</yayimTarihi>
+		<kaldirilisTarihi>30.06.2017</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>	
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.07.2016</yayimTarihi>
+		<kaldirilisTarihi>31.12.2016</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.04.2016</yayimTarihi>
+		<kaldirilisTarihi>30.06.2016</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.07.2015</yayimTarihi>
+		<kaldirilisTarihi>31.03.2016</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.01.2014</yayimTarihi>
+		<kaldirilisTarihi>30.06.2015</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.04.2013</yayimTarihi>
+		<kaldirilisTarihi>31.12.2013</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>15.09.2010</yayimTarihi>
+		<kaldirilisTarihi>31.03.2013</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.04.2009</yayimTarihi>
+		<kaldirilisTarihi>31.08.2010</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>31.03.2009</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.04.2006</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.01.2006</yayimTarihi>
+		<kaldirilisTarihi>31.03.2006</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>GGECICI</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.05.2005</yayimTarihi>
+		<kaldirilisTarihi>31.12.2005</kaldirilisTarihi>
+		<adi>Gelir Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>31</versiyon>
+		<yayimTarihi>01.04.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>30</versiyon>
+		<yayimTarihi>01.10.2021</yayimTarihi>
+		<kaldirilisTarihi>31.03.2022</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>29</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>30.09.2021</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>28</versiyon>
+		<yayimTarihi>01.04.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>27</versiyon>
+		<yayimTarihi>15.01.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2020</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>26</versiyon>
+		<yayimTarihi>01.07.2019</yayimTarihi>
+		<kaldirilisTarihi>31.12.2019</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>25</versiyon>
+		<yayimTarihi>01.01.2019</yayimTarihi>
+		<kaldirilisTarihi>30.06.2019</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>24</versiyon>
+		<yayimTarihi>01.10.2018</yayimTarihi>
+		<kaldirilisTarihi>31.12.2018</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>23</versiyon>
+		<yayimTarihi>01.07.2018</yayimTarihi>
+		<kaldirilisTarihi>30.09.2018</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>22</versiyon>
+		<yayimTarihi>01.07.2017</yayimTarihi>
+		<kaldirilisTarihi>30.06.2018</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>21</versiyon>
+		<yayimTarihi>01.04.2017</yayimTarihi>
+		<kaldirilisTarihi>30.06.2017</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>20</versiyon>
+		<yayimTarihi>01.01.2017</yayimTarihi>
+		<kaldirilisTarihi>31.03.2017</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>19</versiyon>
+		<yayimTarihi>01.07.2016</yayimTarihi>
+		<kaldirilisTarihi>31.12.2016</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>18</versiyon>
+		<yayimTarihi>01.04.2016</yayimTarihi>
+		<kaldirilisTarihi>30.06.2016</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>17</versiyon>
+		<yayimTarihi>01.07.2015</yayimTarihi>
+		<kaldirilisTarihi>31.03.2016</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KGECICI</kod>
+		<versiyon>16</versiyon>
+		<yayimTarihi>01.04.2015</yayimTarihi>
+		<kaldirilisTarihi>30.06.2015</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>15</versiyon>
+		<yayimTarihi>01.04.2014</yayimTarihi>
+		<kaldirilisTarihi>31.03.2015</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>14</versiyon>
+		<yayimTarihi>01.04.2013</yayimTarihi>
+		<kaldirilisTarihi>31.03.2014</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>15.09.2010</yayimTarihi>
+		<kaldirilisTarihi>31.03.2013</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.04.2010</yayimTarihi>
+		<kaldirilisTarihi>31.08.2010</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.04.2009</yayimTarihi>
+		<kaldirilisTarihi>31.03.2010</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>31.03.2009</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.12.2008</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.07.2008</yayimTarihi>
+		<kaldirilisTarihi>30.11.2008</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.04.2008</yayimTarihi>
+		<kaldirilisTarihi>30.06.2008</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>09.04.2007</yayimTarihi>
+		<kaldirilisTarihi>31.03.2008</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>08.04.2007</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.04.2006</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.01.2006</yayimTarihi>
+		<kaldirilisTarihi>31.03.2006</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>22.07.2005</yayimTarihi>
+		<kaldirilisTarihi>31.12.2005</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>	
+	<beyanname>
+	    <kod>KGECICI</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.05.2005</yayimTarihi>
+		<kaldirilisTarihi>21.07.2005</kaldirilisTarihi>
+		<adi>Kurumlar Vergisi Mükellefleri için Geçici Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>NOTER</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.08.2005</yayimTarihi>
+		<kaldirilisTarihi>15.05.2010</kaldirilisTarihi>
+		<adi>Noter Harçları Vergisi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>NOTER</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>16.05.2010</yayimTarihi>
+		<kaldirilisTarihi>14.01.2014</kaldirilisTarihi>
+		<adi>Noter Harçları Vergisi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>NOTER</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>16.01.2014</yayimTarihi>
+		<kaldirilisTarihi>31.08.2016</kaldirilisTarihi>
+		<adi>Noter Harçları Vergisi Bildirimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>NOTER</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.09.2016</yayimTarihi>
+		<kaldirilisTarihi>15.04.2017</kaldirilisTarihi>
+		<adi>Noter Harçları Vergisi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>NOTER</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>16.04.2017</yayimTarihi>
+		<kaldirilisTarihi>31.12.2018</kaldirilisTarihi>
+		<adi>Noterlerce Yapılacak Makbuz Karşılığı Ödemeler Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>NOTER</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.01.2019</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Noterlerce Yapılacak Makbuz Karşılığı Ödemeler Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUH70</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.05.2006</yayimTarihi>
+		<kaldirilisTarihi>01.07.2006</kaldirilisTarihi>
+		<adi>GVK Geçici 70. Md. Kapsamında Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUH70</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.07.2006</yayimTarihi>
+		<kaldirilisTarihi>31.03.2007</kaldirilisTarihi>
+		<adi>GVK Geçici 70. Md. Kapsamında Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUH78</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.08.2010</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>GVK Geçici 78. Md. Kapsamında Muhtasar Beyanname</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBA</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.02.2023</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Form BA</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBA</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.08.2021</yayimTarihi>
+		<kaldirilisTarihi>31.01.2023</kaldirilisTarihi>
+		<adi>Form BA</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBA</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.06.2018</yayimTarihi>
+		<kaldirilisTarihi>31.07.2021</kaldirilisTarihi>
+		<adi>Form BA</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBA</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.10.2012</yayimTarihi>
+		<kaldirilisTarihi>31.05.2018</kaldirilisTarihi>
+		<adi>Form BA</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBA</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.02.2010</yayimTarihi>
+		<kaldirilisTarihi>30.09.2012</kaldirilisTarihi>
+		<adi>Form BA</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBA</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>31.01.2010</kaldirilisTarihi>
+		<adi>Form BA</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBA</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.01.2008</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Form BA</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBA</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.09.2006</yayimTarihi>
+		<kaldirilisTarihi>31.12.2007</kaldirilisTarihi>
+		<adi>Form BA</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBS</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.02.2023</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Form BS</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBS</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.08.2021</yayimTarihi>
+		<kaldirilisTarihi>31.01.2023</kaldirilisTarihi>
+		<adi>Form BS</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBS</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.06.2018</yayimTarihi>
+		<kaldirilisTarihi>31.07.2021</kaldirilisTarihi>
+		<adi>Form BS</adi>
+	</beyanname>	
+	<beyanname>
+		<kod>FORMBS</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.10.2012</yayimTarihi>
+		<kaldirilisTarihi>31.05.2018</kaldirilisTarihi>
+		<adi>Form BS</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBS</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.02.2010</yayimTarihi>
+		<kaldirilisTarihi>30.09.2012</kaldirilisTarihi>
+		<adi>Form BS</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBS</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>31.01.2010</kaldirilisTarihi>
+		<adi>Form BS</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBS</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.01.2008</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Form BS</adi>
+	</beyanname>
+	<beyanname>
+		<kod>FORMBS</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.09.2006</yayimTarihi>
+		<kaldirilisTarihi>31.12.2007</kaldirilisTarihi>
+		<adi>Form BS</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KKDF</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.03.2007</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Kaynak Kullanımını Destekleme Fonu Kesintisi Bildirimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>KKDF</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Kaynak Kullanımını Destekleme Fonu Kesintisi Bildirimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>GELIR67</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>15.03.2007</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>G.V.K Geçici 67/11 inci Maddesine Göre İhtiyari Beyanda Bulunan Mükellefler İçin</adi>
+	</beyanname>
+	<beyanname>
+		<kod>GELIR67</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>G.V.K Geçici 67/11 inci Maddesine Göre İhtiyari Beyanda Bulunan Mükellefler İçin</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>ARACMYN</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.01.2008</yayimTarihi>
+		<kaldirilisTarihi>31.12.2008</kaldirilisTarihi>
+		<adi>Arac Muayne</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>ARACMYN</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.01.2009</yayimTarihi>
+		<kaldirilisTarihi>31.10.2009</kaldirilisTarihi>
+		<adi>Arac Muayne</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>ARACMYN</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.11.2009</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Arac Muayne</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KESINMIZAN</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.03.2011</yayimTarihi>
+		<kaldirilisTarihi>31.07.2016</kaldirilisTarihi>
+		<adi>Kesin Mizan Bildirimi (Gelir Vergisi Mükellefleri için)</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>KESINMIZANK</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.04.2011</yayimTarihi>
+		<kaldirilisTarihi>31.07.2016</kaldirilisTarihi>
+		<adi>Kesin Mizan Bildirimi (Kurumlar Vergisi Mükellefleri için)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCKAMU</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.04.2013</yayimTarihi>
+		<kaldirilisTarihi>31.03.2014</kaldirilisTarihi>
+		<adi>Kamu Yararını İlgilendiren Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCKAMU</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.04.2014</yayimTarihi>
+		<kaldirilisTarihi>31.03.2015</kaldirilisTarihi>
+		<adi>Kamu Yararını İlgilendiren Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCKAMU</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.04.2015</yayimTarihi>
+		<kaldirilisTarihi>31.03.2016</kaldirilisTarihi>
+		<adi>Kamu Yararını İlgilendiren Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCKAMU</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.04.2016</yayimTarihi>
+		<kaldirilisTarihi>31.03.2017</kaldirilisTarihi>
+		<adi>Kamu Yararını İlgilendiren Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCKAMU</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.04.2017</yayimTarihi>
+		<kaldirilisTarihi>31.03.2018</kaldirilisTarihi>
+		<adi>Kamu Yararını İlgilendiren Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCKAMU</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.04.2018</yayimTarihi>
+		<kaldirilisTarihi>31.03.2019</kaldirilisTarihi>
+		<adi>Kamu Yararını İlgilendiren Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCKAMU</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.04.2019</yayimTarihi>
+		<kaldirilisTarihi>31.03.2020</kaldirilisTarihi>
+		<adi>Kamu Yararını İlgilendiren Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCKAMU</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.04.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Kamu Yararını İlgilendiren Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCKAMU</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>31.03.2022</kaldirilisTarihi>
+		<adi>Kamu Yararını İlgilendiren Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCKAMU</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.04.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Kamu Yararını İlgilendiren Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCDIGER</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.04.2013</yayimTarihi>
+		<kaldirilisTarihi>31.03.2014</kaldirilisTarihi>
+		<adi>Diğer Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCDIGER</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.04.2014</yayimTarihi>
+		<kaldirilisTarihi>31.03.2015</kaldirilisTarihi>
+		<adi>Diğer Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCDIGER</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.04.2015</yayimTarihi>
+		<kaldirilisTarihi>31.03.2016</kaldirilisTarihi>
+		<adi>Diğer Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCDIGER</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.04.2016</yayimTarihi>
+		<kaldirilisTarihi>31.03.2017</kaldirilisTarihi>
+		<adi>Diğer Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCDIGER</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.04.2017</yayimTarihi>
+		<kaldirilisTarihi>31.03.2018</kaldirilisTarihi>
+		<adi>Diğer Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCDIGER</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.04.2018</yayimTarihi>
+		<kaldirilisTarihi>31.03.2019</kaldirilisTarihi>
+		<adi>Diğer Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCDIGER</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.04.2019</yayimTarihi>
+		<kaldirilisTarihi>31.03.2020</kaldirilisTarihi>
+		<adi>Diğer Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCDIGER</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.04.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Diğer Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCDIGER</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>31.03.2022</kaldirilisTarihi>
+		<adi>Diğer Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCDIGER</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.04.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Diğer Kuruluşların Denetimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>YRTB7186</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.08.2019</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Yurt Dışında Sahip Olunan Para,Altın,Döviz,Menkul Kıymet ve Diğer Sermaye Piyasası Araçlarına İlişkin Vergi Beyannamesi (Sorumlu  Bankalar ve Aracı Kurumlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>YRTI7186</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.08.2019</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Türkiye'de Sahip Olunan Para,Altın,Döviz,Menkul Kıymet Ve Diğer Sermaye Piyasası Araçları ile Taşınmazlara İlişkin Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>YRTI7417</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.08.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Türkiye'de Sahip Olunan Para,Altın,Döviz,Menkul Kıymet Ve Diğer Sermaye Piyasası Araçları ile Taşınmazlara İlişkin Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>YRTB7417</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.08.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Yurt Dışında Sahip Olunan Para,Altın,Döviz,Menkul Kıymet ve Diğer Sermaye Piyasası Araçlarına İlişkin Vergi Beyannamesi (Sorumlu  Bankalar ve Aracı Kurumlar İçin)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HARCELEKTRIK</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>07.04.2014</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Elektrik Üretim Lisansı Harç Bildirimi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV6</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>08.05.2014</yayimTarihi>
+		<kaldirilisTarihi>15.05.2014</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 6</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV6</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>16.05.2014</yayimTarihi>
+		<kaldirilisTarihi>31.03.2015</kaldirilisTarihi>
+		<adi>Özel Tüketim Vergisi Beyanname 6</adi>
+	</beyanname>
+	<beyanname>
+		<kod>OTV6</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.04.2015</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Özel Tüketim Vergisi Beyanname 6</adi>
+	</beyanname>
+	<beyanname>
+	    <kod>STOK6552</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>25.09.2014</yayimTarihi>
+		<kaldirilisTarihi>31.12.2014</kaldirilisTarihi>
+		<adi>Kasa Mevcudu ve Ortaklardan Net Alacaklar</adi>
+	</beyanname>
+	<beyanname>
+		<kod>HPAY6001</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.08.2016</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>6001 Sayılı Kanunun 30. Maddesi Uyarınca Otoyollar İle Erişme Kontrolünün Uygulandığı Karayollarını İşletme Yetkisi Verilen Şirketlerce Ödenmesi Gereken Hazine Payına İlişkin Bildirim</adi>
+	</beyanname>
+	<beyanname>
+		<kod>TSHARC</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.12.2016</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Ticaret Sicili Harçlarına İlişkin Bildirim</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.06.2017</yayimTarihi>
+		<kaldirilisTarihi>31.07.2017</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.08.2017</yayimTarihi>
+		<kaldirilisTarihi>30.09.2017</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.10.2017</yayimTarihi>
+		<kaldirilisTarihi>28.02.2018</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.03.2018</yayimTarihi>
+		<kaldirilisTarihi>31.03.2018</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.04.2018</yayimTarihi>
+		<kaldirilisTarihi>31.05.2018</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.06.2018</yayimTarihi>
+		<kaldirilisTarihi>31.01.2019</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi</adi>
+	</beyanname>
+		<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>7</versiyon>
+		<yayimTarihi>01.02.2019</yayimTarihi>
+		<kaldirilisTarihi>31.07.2019</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>8</versiyon>
+		<yayimTarihi>01.08.2019</yayimTarihi>
+		<kaldirilisTarihi>31.01.2020</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>9</versiyon>
+		<yayimTarihi>01.02.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2020</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003A</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>10</versiyon>
+		<yayimTarihi>01.04.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003A</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>11</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>31.05.2021</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003A</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>12</versiyon>
+		<yayimTarihi>01.06.2021</yayimTarihi>
+		<kaldirilisTarihi>30.11.2021</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003A</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>13</versiyon>
+		<yayimTarihi>01.12.2021</yayimTarihi>
+		<kaldirilisTarihi>31.01.2022</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003A</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK</kod>
+		<versiyon>14</versiyon>
+		<yayimTarihi>01.02.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003A</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK2</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.02.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2020</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003B</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK2</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.04.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003B</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK2</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>31.05.2021</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003B</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK2</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.06.2021</yayimTarihi>
+		<kaldirilisTarihi>30.11.2021</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003B</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK2</kod>
+		<versiyon>5</versiyon>
+		<yayimTarihi>01.12.2021</yayimTarihi>
+		<kaldirilisTarihi>31.01.2022</kaldirilisTarihi>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003B</adi>
+	</beyanname>
+	<beyanname>
+		<kod>MUHSGK2</kod>
+		<versiyon>6</versiyon>
+		<yayimTarihi>01.02.2021</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Muhtasar ve Prim Hizmet Beyannamesi - 1003B</adi>
+	</beyanname>
+	<beyanname>
+		<kod>ENFLSYN</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.07.2018</yayimTarihi>
+		<kaldirilisTarihi>30.06.2021</kaldirilisTarihi>
+		<adi>Yeniden Değerleme Değer Artışına İlişkin Vergi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>ENFLSYN</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.07.2021</yayimTarihi>
+		<kaldirilisTarihi>24.02.2022</kaldirilisTarihi>
+		<adi>Yeniden Değerleme Değer Artışına İlişkin Vergi Beyannamesi (7326 Sayılı Kanun)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>ENFLSYN</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>25.02.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Yeniden Değerleme Değer Artışına İlişkin Vergi Beyannamesi (7338 Sayılı Kanun)</adi>
+	</beyanname>
+	<beyanname>
+		<kod>TANAP</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.10.2018</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Peşin Ödenen Kurumlar Vergisi Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>POSET</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.04.2019</yayimTarihi>
+		<kaldirilisTarihi>31.01.2020</kaldirilisTarihi>
+		<adi>Geri Kazanım Katılım Payı Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>POSET</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.02.2020</yayimTarihi>
+		<kaldirilisTarihi>31.03.2021</kaldirilisTarihi>
+		<adi>Geri Kazanım Katılım Payı Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>POSET</kod>
+		<versiyon>3</versiyon>
+		<yayimTarihi>01.04.2021</yayimTarihi>
+		<kaldirilisTarihi>31.03.2022</kaldirilisTarihi>
+		<adi>Geri Kazanım Katılım Payı Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>POSET</kod>
+		<versiyon>4</versiyon>
+		<yayimTarihi>01.04.2022</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Geri Kazanım Katılım Payı Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>TURIZM</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>01.11.2019</yayimTarihi>
+		<kaldirilisTarihi>31.01.2023</kaldirilisTarihi>
+		<adi>Turizm Payı Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>TURIZM</kod>
+		<versiyon>2</versiyon>
+		<yayimTarihi>01.02.2023</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Turizm Payı Beyannamesi</adi>
+	</beyanname>
+	<beyanname>
+		<kod>YRTI7256</kod>
+		<versiyon>1</versiyon>
+		<yayimTarihi>17.11.2020</yayimTarihi>
+		<kaldirilisTarihi/>
+		<adi>Türkiye'de Sahip Olunan Para,Altın,Döviz,Menkul Kıymet Ve Diğer Sermaye Piyasası Araçları ile Taşınmazlara İlişkin Vergi Beyannamesi</adi>
+	</beyanname>
+</beyannameler>

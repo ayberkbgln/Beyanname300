@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref : ULKELER			ulkeler/ulke
+	Ref : ILLER				ilKodu/data/kod
+	Ref : GRUPKODLARI		grupKodlari/grup/value
+	Ref : URUNLER			urunler/data/kod
+	Ref : DAYANAKLAR		dayanaklar/dayanak/value
+-->
+	<ulkeler>
+		<ulke>
+			<value>1</value>	
+			<text>Yurtiçi</text>
+		</ulke>
+		<ulke>
+			<value>2</value>	
+			<text>Yurtdışı</text>
+		</ulke>
+	</ulkeler>
+	<ilKodu>
+		<data> <kod>000</kod> <aciklama>YURTDIŞI</aciklama> </data>
+		<data> <kod>001</kod> <aciklama>ADANA</aciklama> </data>
+		<data> <kod>002</kod> <aciklama>ADIYAMAN</aciklama> </data>
+		<data> <kod>003</kod> <aciklama>AFYONKARAHİSAR</aciklama> </data>
+		<data> <kod>004</kod> <aciklama>AĞRI</aciklama> </data>
+		<data> <kod>005</kod> <aciklama>AMASYA</aciklama> </data>
+		<data> <kod>006</kod> <aciklama>ANKARA</aciklama> </data>
+		<data> <kod>007</kod> <aciklama>ANTALYA</aciklama> </data>
+		<data> <kod>008</kod> <aciklama>ARTVİN</aciklama> </data>
+		<data> <kod>009</kod> <aciklama>AYDIN</aciklama> </data>
+		<data> <kod>010</kod> <aciklama>BALIKESİR</aciklama> </data>
+		<data> <kod>011</kod> <aciklama>BİLECİK</aciklama> </data>
+		<data> <kod>012</kod> <aciklama>BİNGÖL</aciklama> </data>
+		<data> <kod>013</kod> <aciklama>BİTLİS</aciklama> </data>
+		<data> <kod>014</kod> <aciklama>BOLU</aciklama> </data>
+		<data> <kod>015</kod> <aciklama>BURDUR</aciklama> </data>
+		<data> <kod>016</kod> <aciklama>BURSA</aciklama> </data>
+		<data> <kod>017</kod> <aciklama>ÇANAKKALE</aciklama> </data>
+		<data> <kod>018</kod> <aciklama>ÇANKIRI</aciklama> </data>
+		<data> <kod>019</kod> <aciklama>ÇORUM</aciklama> </data>
+		<data> <kod>020</kod> <aciklama>DENİZLİ</aciklama> </data>
+		<data> <kod>021</kod> <aciklama>DİYARBAKIR</aciklama> </data>
+		<data> <kod>022</kod> <aciklama>EDİRNE</aciklama> </data>
+		<data> <kod>023</kod> <aciklama>ELAZIĞ</aciklama> </data>
+		<data> <kod>024</kod> <aciklama>ERZİNCAN</aciklama> </data>
+		<data> <kod>025</kod> <aciklama>ERZURUM</aciklama> </data>
+		<data> <kod>026</kod> <aciklama>ESKİŞEHİR</aciklama> </data>
+		<data> <kod>027</kod> <aciklama>GAZİANTEP</aciklama> </data>
+		<data> <kod>028</kod> <aciklama>GİRESUN</aciklama> </data>
+		<data> <kod>029</kod> <aciklama>GÜMÜŞHANE</aciklama> </data>
+		<data> <kod>030</kod> <aciklama>HAKKARİ</aciklama> </data>
+		<data> <kod>031</kod> <aciklama>HATAY</aciklama> </data>
+		<data> <kod>032</kod> <aciklama>ISPARTA</aciklama> </data>
+		<data> <kod>033</kod> <aciklama>MERSİN</aciklama> </data>
+		<data> <kod>034</kod> <aciklama>İSTANBUL</aciklama> </data>
+		<data> <kod>035</kod> <aciklama>İZMİR</aciklama> </data>
+		<data> <kod>036</kod> <aciklama>KARS</aciklama> </data>
+		<data> <kod>037</kod> <aciklama>KASTAMONU</aciklama> </data>
+		<data> <kod>038</kod> <aciklama>KAYSERİ</aciklama> </data>
+		<data> <kod>039</kod> <aciklama>KIRKLARELİ</aciklama> </data>
+		<data> <kod>040</kod> <aciklama>KIRŞEHİR</aciklama> </data>
+		<data> <kod>041</kod> <aciklama>KOCAELİ</aciklama> </data>
+		<data> <kod>042</kod> <aciklama>KONYA</aciklama> </data>
+		<data> <kod>043</kod> <aciklama>KÜTAHYA</aciklama> </data>
+		<data> <kod>044</kod> <aciklama>MALATYA</aciklama> </data>
+		<data> <kod>045</kod> <aciklama>MANİSA</aciklama> </data>
+		<data> <kod>046</kod> <aciklama>KAHRAMANMARAŞ</aciklama> </data>
+		<data> <kod>047</kod> <aciklama>MARDİN</aciklama> </data>
+		<data> <kod>048</kod> <aciklama>MUĞLA</aciklama> </data>
+		<data> <kod>049</kod> <aciklama>MUŞ</aciklama> </data>
+		<data> <kod>050</kod> <aciklama>NEVŞEHİR</aciklama> </data>
+		<data> <kod>051</kod> <aciklama>NİĞDE</aciklama> </data>
+		<data> <kod>052</kod> <aciklama>ORDU</aciklama> </data>
+		<data> <kod>053</kod> <aciklama>RİZE</aciklama> </data>
+		<data> <kod>054</kod> <aciklama>SAKARYA</aciklama> </data>
+		<data> <kod>055</kod> <aciklama>SAMSUN</aciklama> </data>
+		<data> <kod>056</kod> <aciklama>SİİRT</aciklama> </data>
+		<data> <kod>057</kod> <aciklama>SİNOP</aciklama> </data>
+		<data> <kod>058</kod> <aciklama>SİVAS</aciklama> </data>
+		<data> <kod>059</kod> <aciklama>TEKİRDAĞ</aciklama> </data>
+		<data> <kod>060</kod> <aciklama>TOKAT</aciklama> </data>
+		<data> <kod>061</kod> <aciklama>TRABZON</aciklama> </data>
+		<data> <kod>062</kod> <aciklama>TUNCELİ</aciklama> </data>
+		<data> <kod>063</kod> <aciklama>ŞANLIURFA</aciklama> </data>
+		<data> <kod>064</kod> <aciklama>UŞAK</aciklama> </data>
+		<data> <kod>065</kod> <aciklama>VAN</aciklama> </data>
+		<data> <kod>066</kod> <aciklama>YOZGAT</aciklama> </data>
+		<data> <kod>067</kod> <aciklama>ZONGULDAK</aciklama> </data>
+		<data> <kod>068</kod> <aciklama>AKSARAY</aciklama> </data>
+		<data> <kod>069</kod> <aciklama>BAYBURT</aciklama> </data>
+		<data> <kod>070</kod> <aciklama>KARAMAN</aciklama> </data>
+		<data> <kod>071</kod> <aciklama>KIRIKKALE</aciklama> </data>
+		<data> <kod>072</kod> <aciklama>BATMAN</aciklama> </data>
+		<data> <kod>073</kod> <aciklama>ŞIRNAK</aciklama> </data>
+		<data> <kod>074</kod> <aciklama>BARTIN</aciklama> </data>
+		<data> <kod>075</kod> <aciklama>ARDAHAN</aciklama> </data>
+		<data> <kod>076</kod> <aciklama>IĞDIR</aciklama> </data>
+		<data> <kod>077</kod> <aciklama>YALOVA</aciklama> </data>
+		<data> <kod>078</kod> <aciklama>KARABÜK</aciklama> </data>
+		<data> <kod>079</kod> <aciklama>KİLİS</aciklama> </data>
+		<data> <kod>080</kod> <aciklama>OSMANİYE</aciklama> </data>
+		<data> <kod>081</kod> <aciklama>DÜZCE</aciklama> </data>
+	</ilKodu>
+	<grupKodlari>
+		<grup>
+			<value>1</value>	
+			<text>PİL</text>
+		</grup>
+		<grup>
+			<value>2</value>	
+			<text>MADENİ YAĞ</text>
+		</grup>
+		<grup>
+			<value>3</value>	
+			<text>İLAÇ</text>
+		</grup>
+		<grup>
+			<value>4</value>	
+			<text>ELEKTRİKLİ VE ELEKTRONİK EŞYA</text>
+		</grup>
+		<grup>
+			<value>5</value>	
+			<text>BİTKİSEL YAĞLAR</text>
+		</grup>
+		<grup>
+			<value>6</value>	
+			<text>AMBALAJ</text>
+		</grup>
+		<grup>
+			<value>7</value>	
+			<text>AKÜMÜLATÖR</text>
+		</grup>
+		<grup>
+			<value>8</value>	
+			<text>LASTİK</text>
+		</grup>
+	</grupKodlari>
+	<urunler>
+		<data kod="001" grupkod="1" depozito="0" carpan="280" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="1">
+			<kod>001</kod> 
+			<grup>PİL</grup> 
+			<urun>ÇİNKO KARBON PİLLER</urun> 
+			<tutar>2,8</tutar> 
+			<birim>TL/KG</birim>
+		</data>
+		<data kod="002" grupkod="1" depozito="0" carpan="280" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="1">
+			<kod>002</kod> 
+			<grup>PİL</grup> 
+			<urun>ALKALİ SİLİNDİRİK PİLLER</urun> 
+			<tutar>2,8</tutar> 
+			<birim>TL/KG</birim>
+		</data>
+		<data kod="003" grupkod="1" depozito="0" carpan="430" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="1">
+			<kod>003</kod> 
+			<grup>PİL</grup> 
+			<urun>ALKALİ DÜĞME PİLLER</urun> 
+			<tutar>4,3</tutar> 
+			<birim>TL/KG</birim>
+		</data>
+		<data kod="004" grupkod="1" depozito="0" carpan="1480" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="1">
+			<kod>004</kod> 
+			<grup>PİL</grup> 
+			<urun>DÜĞME PİLLER(ÇİNKO-HAVA VE GÜMÜŞ OKSİTLİ</urun> 
+			<tutar>14,8</tutar> 
+			<birim>TL/KG</birim>
+		</data>
+		<data kod="005" grupkod="1" depozito="0" carpan="1480" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="1">
+			<kod>005</kod> 
+			<grup>PİL</grup> 
+			<urun>LİTYUM DÜĞME PİLLER</urun> 
+			<tutar>14,8</tutar> 
+			<birim>TL/KG</birim>
+		</data>
+		<data kod="006" grupkod="1" depozito="0" carpan="700" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="1">
+			<kod>006</kod> 
+			<grup>PİL</grup> 
+			<urun>LİTYUM SİLİNDİRİK ŞARJLI VE PRİMER PİL ÇEŞİTLERİ(ARAÇ BATARYALARI HARİÇ)</urun> 
+			<tutar>7</tutar> 
+			<birim>TL/KG</birim>
+		</data>
+		<data kod="007" grupkod="1" depozito="0" carpan="2100" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="1">
+			<kod>007</kod> 
+			<grup>PİL</grup> 
+			<urun>OTOMOTİV PİLLERİ(KURŞUN İÇERENLER HARİÇ)</urun> 
+			<tutar>21</tutar> 
+			<birim>TL/KG</birim>
+		</data>
+		<data kod="008" grupkod="1" depozito="0" carpan="2100" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="1">
+			<kod>008</kod> 
+			<grup>PİL</grup> 
+			<urun>LİTYUM İÇEREN ARAÇ BATARYALARI</urun> 
+			<tutar>21</tutar> 
+			<birim>TL/KG</birim>
+		</data>
+		<data kod="009" grupkod="1" depozito="0" carpan="700" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="1">
+			<kod>009</kod> 
+			<grup>PİL</grup> 
+			<urun>DİĞER ŞARJLI PİLLER</urun> 
+			<tutar>7</tutar> 
+			<birim>TL/KG</birim>
+		</data>
+		<data kod="010" grupkod="2" depozito="0" carpan="70" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="1"  dayanak12="0">
+			<kod>010</kod> 
+			<grup>MADENİ YAĞ</grup> 
+			<urun>MADENİ YAĞ</urun> 
+			<tutar>70</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="011" grupkod="3" depozito="0" carpan="1.48" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>011</kod> 
+			<grup>İLAÇ</grup> 
+			<urun>BEŞERİ İLAÇ(KUTU/ŞİŞE)</urun> 
+			<tutar>1,48</tutar> 
+			<birim>KR/KUTU-ŞİŞE</birim>
+		</data>
+		<data kod="012" grupkod="3" depozito="0" carpan="1.48" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>012</kod> 
+			<grup>İLAÇ</grup> 
+			<urun>ZİRAİ İLAÇ(KUTU/ŞİŞE)</urun> 
+			<tutar>1,48</tutar> 
+			<birim>KR/KUTU-ŞİŞE</birim>
+		</data>
+		<data kod="013" grupkod="3" depozito="0" carpan="1.48" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>013</kod> 
+			<grup>İLAÇ</grup> 
+			<urun>VETERİNER İLAÇLARI(KUTU/ŞİŞE)</urun> 
+			<tutar>1,48</tutar> 
+			<birim>KR/KUTU-ŞİŞE</birim>
+		</data>
+		<data kod="014" grupkod="4" depozito="0" carpan="28" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>014</kod> 
+			<grup>ELEKTRİKLİ VE ELEKTRONİK EŞYA</grup> 
+			<urun>TELEVİZYON/MONİTÖR</urun> 
+			<tutar>28</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="015" grupkod="4" depozito="0" carpan="28" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>015</kod> 
+			<grup>ELEKTRİKLİ VE ELEKTRONİK EŞYA</grup> 
+			<urun>BİLİŞİM TELEKOMÜNİKASYON EKİPMANLARI (TELEVİZYON VE MONİTÖRLER HARİÇ)</urun> 
+			<tutar>28</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="016" grupkod="4" depozito="0" carpan="14.8" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>016</kod> 
+			<grup>ELEKTRİKLİ VE ELEKTRONİK EŞYA</grup> 
+			<urun>AYDINLATMA EKİPMANLARI</urun> 
+			<tutar>14,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="017" grupkod="4" depozito="0" carpan="28" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>017</kod> 
+			<grup>ELEKTRİKLİ VE ELEKTRONİK EŞYA</grup> 
+			<urun>KÜÇÜK EV ALETLERİ VE DİĞERLERİ</urun> 
+			<tutar>28</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="018" grupkod="4" depozito="0" carpan="36" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>018</kod> 
+			<grup>ELEKTRİKLİ VE ELEKTRONİK EŞYA</grup> 
+			<urun>BEYAZ EŞYALAR(BUZDOLABI,SOĞUTUCULAR,İKLİMLENDİRME CİHAZLARI HARİÇ)</urun> 
+			<tutar>36</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="019" grupkod="4" depozito="0" carpan="43" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>019</kod> 
+			<grup>ELEKTRİKLİ VE ELEKTRONİK EŞYA</grup> 
+			<urun>BUZDOLABI,SOĞUTUCULAR/İKLİMLENDİRME CİHAZLARI</urun> 
+			<tutar>43</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="020" grupkod="5" depozito="0" carpan="14.8" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="1" dayanak12="0">
+			<kod>020</kod> 
+			<grup>BİTKİSEL YAĞLAR</grup> 
+			<urun>BİTKİSEL YAĞLAR</urun> 
+			<tutar>14,8</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="021" grupkod="6" depozito="0" carpan="1.48" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>021</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>PLASTİK İÇECEK AMBALAJLARI 0,33 LİTREYE KADAR</urun> 
+			<tutar>1,48</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="022" grupkod="6" depozito="1" carpan="1.48" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>022</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu PLASTİK İÇECEK AMBALAJLARI 0,33 LİTREYE KADAR</urun> 
+			<tutar>1,48</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="023" grupkod="6" depozito="0" carpan="2.8" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>023</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>PLASTİK İÇECEK AMBALAJLARI 0,3301-0,75 LİTRE ARASI</urun> 
+			<tutar>2,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="024" grupkod="6" depozito="1" carpan="2.8" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>024</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu PLASTİK İÇECEK AMBALAJLARI 0,3301-0,75 LİTRE ARASI</urun> 
+			<tutar>2,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="025" grupkod="6" depozito="0" carpan="4.3" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>025</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>PLASTİK İÇECEK AMBALAJLARI 0,7501-1,5  LİTRE ARASI</urun> 
+			<tutar>4,3</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="026" grupkod="6" depozito="1" carpan="4.3" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>026</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu PLASTİK İÇECEK AMBALAJLARI 0,7501-1,5  LİTRE ARASI</urun> 
+			<tutar>4,3</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="027" grupkod="6" depozito="0" carpan="5.8" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>027</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>PLASTİK İÇECEK AMBALAJLARI 1,501 LİTRE VE ÜZERİ</urun> 
+			<tutar>5,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="028" grupkod="6" depozito="1" carpan="5.8" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>028</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu PLASTİK İÇECEK AMBALAJLARI 1,501 LİTRE VE ÜZERİ</urun> 
+			<tutar>5,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="029" grupkod="6" depozito="0" carpan="58" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>029</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>PLASTİK AMBALAJ (ÜCRETLİ VERİLEN POŞETLER HARİÇ)</urun> 
+			<tutar>58</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="030" grupkod="6" depozito="1" carpan="58" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>030</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu PLASTİK AMBALAJ (ÜCRETLİ VERİLEN POŞETLER HARİÇ)</urun> 
+			<tutar>58</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="031" grupkod="6" depozito="0" carpan="4.3" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>031</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>METAL İÇECEK AMBALAJLARI</urun> 
+			<tutar>4,3</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="032" grupkod="6" depozito="1" carpan="4.3" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>032</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu METAL İÇECEK AMBALAJLARI</urun> 
+			<tutar>4,3</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="033" grupkod="6" depozito="0" carpan="70" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>033</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>METAL AMBALAJ DİĞERLERİ</urun> 
+			<tutar>70</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="034" grupkod="6" depozito="1" carpan="70" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>034</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu METAL AMBALAJ DİĞERLERİ</urun> 
+			<tutar>70</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="035" grupkod="6" depozito="0" carpan="1.48" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>035</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>KOMPOZİT KAĞIT-KARTON AĞIRLIKLI İÇECEK AMBALAJLARI 0,25 LİTREYE KADAR</urun> 
+			<tutar>1,48</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="036" grupkod="6" depozito="1" carpan="1.48" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>036</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu KOMPOZİT KAĞIT-KARTON AĞIRLIKLI İÇECEK AMBALAJLARI 0,25 LİTREYE KADAR</urun> 
+			<tutar>1,48</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="037" grupkod="6" depozito="0" carpan="2.8" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>037</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>KOMPOZİT KAĞIT-KARTON AĞIRLIKLI İÇECEK AMBALAJLARI 0,2501-0,5 LİTRE ARASI</urun> 
+			<tutar>2,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="038" grupkod="6" depozito="1" carpan="2.8" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>038</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu KOMPOZİT KAĞIT-KARTON AĞIRLIKLI İÇECEK AMBALAJLARI 0,2501-0,5 LİTRE ARASI</urun> 
+			<tutar>2,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="039" grupkod="6" depozito="0" carpan="5.8" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>039</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>KOMPOZİT KAĞIT-KARTON AĞIRLIKLI İÇECEK AMBALAJLARI 0,501 LİTRE VE ÜZERİ</urun> 
+			<tutar>5,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="040" grupkod="6" depozito="1" carpan="5.8" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>040</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu KOMPOZİT KAĞIT-KARTON AĞIRLIKLI İÇECEK AMBALAJLARI 0,501 LİTRE VE ÜZERİ</urun> 
+			<tutar>5,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="041" grupkod="6" depozito="0" carpan="70" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>041</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>KOMPOZİT DİĞERLERİ</urun> 
+			<tutar>70</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="042" grupkod="6" depozito="1" carpan="70" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>042</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu KOMPOZİT DİĞERLERİ</urun> 
+			<tutar>70</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="043" grupkod="6" depozito="0" carpan="28" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>043</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>KAĞIT-KARTON AMBALAJLARI</urun> 
+			<tutar>28</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="044" grupkod="6" depozito="1" carpan="28" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>044</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu KAĞIT-KARTON AMBALAJLARI</urun> 
+			<tutar>28</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="045" grupkod="6" depozito="0" carpan="1.48" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>045</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>CAM İÇECEK  AMBALAJLARI 0,25 LİTREYE KADAR</urun> 
+			<tutar>1,48</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="046" grupkod="6" depozito="1" carpan="1.48" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>046</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK  AMBALAJLARI 0,25 LİTREYE KADAR</urun> 
+			<tutar>1,48</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="047" grupkod="6" depozito="0" carpan="2.8" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>047</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>CAM İÇECEK  AMBALAJLARI 0,2501-0,5 LİTRE ARASI</urun> 
+			<tutar>2,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="048" grupkod="6" depozito="1" carpan="2.8" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>048</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK  AMBALAJLARI 0,2501-0,5 LİTRE ARASI</urun> 
+			<tutar>2,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="049" grupkod="6" depozito="0" carpan="4.3" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>049</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>CAM İÇECEK AMBALAJLARI 0,501-1 LİTRE ARASI</urun> 
+			<tutar>4,3</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="050" grupkod="6" depozito="1" carpan="4.3" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>050</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK  AMBALAJLARI 0,501-1 LİTRE ARASI</urun> 
+			<tutar>4,3</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="051" grupkod="6" depozito="0" carpan="7" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>051</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>CAM İÇECEK  AMBALAJLARI 1,01-5 LİTRE ARASI</urun> 
+			<tutar>7</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="052" grupkod="6" depozito="1" carpan="7" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>052</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK  AMBALAJLARI 1,01-5 LİTRE ARASI</urun> 
+			<tutar>7</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="053" grupkod="6" depozito="0" carpan="14.8" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>053</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>CAM İÇECEK  AMBALAJLARI 5,01 LİTRE VE ÜZERİ</urun> 
+			<tutar>14,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="054" grupkod="6" depozito="1" carpan="14.8" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>054</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK  AMBALAJLARI 5,01 LİTRE VE ÜZERİ</urun> 
+			<tutar>14,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="055" grupkod="6" depozito="0" carpan="28" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>055</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>CAM AMBALAJ DİĞERLERİ</urun> 
+			<tutar>28</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="056" grupkod="6" depozito="1" carpan="28" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>056</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM AMBALAJ DİĞERLERİ</urun> 
+			<tutar>28</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="057" grupkod="6" depozito="0" carpan="14.8" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>057</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>AHŞAP AMBALAJ</urun> 
+			<tutar>14,8</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="058" grupkod="6" depozito="1" carpan="14.8" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>058</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu AHŞAP AMBALAJ</urun> 
+			<tutar>14,8</tutar> 
+			<birim>KR/ADET</birim> 
+		</data>
+		<data kod="059" grupkod="7" depozito="0" carpan="28" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>059</kod> 
+			<grup>AKÜMÜLATÖR</grup> 
+			<urun>KURŞUN ASİTLİ OLANLAR</urun> 
+			<tutar>28</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="060" grupkod="7" depozito="1" carpan="28" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>060</kod> 
+			<grup>AKÜMÜLATÖR</grup> 
+			<urun>Depozitolu KURŞUN ASİTLİ OLANLAR</urun> 
+			<tutar>28</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="061" grupkod="7" depozito="0" carpan="70" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>061</kod> 
+			<grup>AKÜMÜLATÖR</grup> 
+			<urun>NİKEL KADMİYUMLU OLANLAR</urun> 
+			<tutar>70</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="062" grupkod="7" depozito="1" carpan="70" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>062</kod> 
+			<grup>AKÜMÜLATÖR</grup> 
+			<urun>Depozitolu NİKEL KADMİYUMLU OLANLAR</urun> 
+			<tutar>70</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="063" grupkod="7" depozito="0" carpan="7" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>063</kod> 
+			<grup>AKÜMÜLATÖR</grup> 
+			<urun>DİĞERLERİ</urun> 
+			<tutar>7</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="064" grupkod="7" depozito="1" carpan="7" dayanak1="0" dayanak2="0" dayanak3="0" dayanak4="0" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>064</kod> 
+			<grup>AKÜMÜLATÖR</grup> 
+			<urun>Depozitolu DİĞERLERİ</urun> 
+			<tutar>7</tutar> 
+			<birim>KR/KG</birim>
+-		</data>
+		<data kod="065" grupkod="8" depozito="0" carpan="280" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>065</kod> 
+			<grup>LASTİK</grup> 
+			<urun>BİNEK ARAÇ LASTİKLERİ</urun> 
+			<tutar>2,8</tutar> 
+			<birim>TL/ADET</birim>
+		</data>
+		<data kod="066" grupkod="8" depozito="0" carpan="580" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>066</kod> 
+			<grup>LASTİK</grup> 
+			<urun>OTOBÜS,KAMYON,KAMYONET,YÜKLEYİCİ VE KAZICI LASTİKLERİ  VE DİĞERLERİ</urun> 
+			<tutar>5,8</tutar> 
+			<birim>TL/ADET</birim>
+		</data>
+		<data kod="067" grupkod="8" depozito="0" carpan="1480" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>067</kod> 
+			<grup>LASTİK</grup> 
+			<urun>İŞ MAKİNASI LASTİKLERİ</urun> 
+			<tutar>14,8</tutar> 
+			<birim>TL/ADET</birim>
+		</data>
+		<data kod="068" grupkod="8" depozito="0" carpan="700" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>068</kod> 
+			<grup>LASTİK</grup> 
+			<urun>DOLGU LASTİKLER</urun> 
+			<tutar>7</tutar> 
+			<birim>TL/ADET</birim>
+		</data>
+	</urunler>
+	<dayanaklar>
+		<dayanak>
+			<value>1</value>	
+			<text>GEKAP Yönetmeliği Madde 5/10 kapsamında Araç</text>
+		</dayanak>
+		<dayanak>
+			<value>2</value>	
+			<text>GEKAP Yönetmeliği Madde 5/10 kapsamında Elektrikli ve Elektronik  Eşya</text>
+		</dayanak>
+		<dayanak>
+			<value>3</value>	
+			<text>GEKAP Yönetmeliği Madde 5/11 kapsamında Araç</text>
+		</dayanak>
+		<dayanak>
+			<value>4</value>	
+			<text>GEKAP Yönetmeliği Madde 5/11 kapsamında Elektrikli ve Elektronik  Eşya</text>
+		</dayanak>
+		<dayanak>
+			<value>5</value>	
+			<text>GEKAP Yönetmeliği Madde 5/12 kapsamında Metal Ambalaj</text>
+		</dayanak>
+		<dayanak>
+			<value>6</value>	
+			<text>GEKAP Yönetmeliği Madde 5/12 kapsamında Plastik Ambalaj</text>
+		</dayanak>
+		<dayanak>
+			<value>7</value>	
+			<text>GEKAP Yönetmeliği Madde 5/12 kapsamında Cam Ambalaj</text>
+		</dayanak>
+		<dayanak>
+			<value>8</value>	
+			<text>GEKAP Yönetmeliği Madde 5/12 kapsamında Ahşap Ambalaj</text>
+		</dayanak>
+		<dayanak>
+			<value>9</value>	
+			<text>GEKAP Yönetmeliği Madde 5/12 kapsamında Kağıt/Karton Ambalaj</text>
+		</dayanak>
+		<dayanak>
+			<value>10</value>	
+			<text>GEKAP Yönetmeliği Madde 5/12 kapsamında Kompozit Ambalaj</text>
+		</dayanak>
+		<dayanak>
+			<value>11</value>	
+			<text>GEKAP Yönetmeliği Madde 5/16 kapsamında Yağlar</text>
+		</dayanak>
+        <dayanak>
+            <value>12</value>
+            <text>GEKAP yönetmeliği Madde 5/16 kapsamında Piller</text>
+        </dayanak>
+	</dayanaklar>
+	<oncekiyildepozito>
+		<data kod="022" grupkod="6" depozito="1" carpan="1.09" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>022</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu PLASTİK İÇECEK AMBALAJLARI 0,33 LİTREYE KADAR</urun> 
+			<tutar>1,09</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="024" grupkod="6" depozito="1" carpan="2.1" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>024</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu PLASTİK İÇECEK AMBALAJLARI 0,3301-0,75 LİTRE ARASI</urun> 
+			<tutar>2,1</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="026" grupkod="6" depozito="1" carpan="3.2" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>026</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu PLASTİK İÇECEK AMBALAJLARI 0,7501-1,5  LİTRE ARASI</urun> 
+			<tutar>3,2</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="028" grupkod="6" depozito="1" carpan="4.3" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>028</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu PLASTİK İÇECEK AMBALAJLARI 1,501 LİTRE VE ÜZERİ</urun> 
+			<tutar>4,3</tutar> 
+			<birim>KR/ADET</birim>
+		</data>	
+		<data kod="030" grupkod="6" depozito="1" carpan="43" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>030</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu PLASTİK İÇECEK AMBALAJLARI POŞET HARİÇ DİĞERLERİ</urun> 
+			<tutar>43</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="032" grupkod="6" depozito="1" carpan="3.2" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>032</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu METAL İÇECEK AMBALAJLARI</urun> 
+			<tutar>3,2</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="034" grupkod="6" depozito="1" carpan="54" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>034</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu METAL AMBALAJ DİĞERLERİ</urun> 
+			<tutar>54</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="036" grupkod="6" depozito="1" carpan="1.09" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>036</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu KOMPOZİT KAĞIT-KARTON AĞIRLIKLI İÇECEK AMBALAJLARI 0,25 LİTREYE KADAR</urun> 
+			<tutar>1,09</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="038" grupkod="6" depozito="1" carpan="2.1" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>038</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu KOMPOZİT KAĞIT-KARTON AĞIRLIKLI İÇECEK AMBALAJLARI 0,2501-0,5 LİTRE ARASI</urun> 
+			<tutar>2,1</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="040" grupkod="6" depozito="1" carpan="4.3" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>040</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu KOMPOZİT KAĞIT-KARTON AĞIRLIKLI İÇECEK AMBALAJLARI 0,501 LİTRE VE ÜZERİ</urun> 
+			<tutar>4,3</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="042" grupkod="6" depozito="1" carpan="54" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>042</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu KOMPOZİT DİĞERLERİ</urun> 
+			<tutar>54</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="044" grupkod="6" depozito="1" carpan="21" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>044</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu KOMPOZİT KAĞIT-KARTON  AMBALAJLARI</urun> 
+			<tutar>21</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="046" grupkod="6" depozito="1" carpan="1.09" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>046</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK  AMBALAJLARI 0,25 LİTREYE KADAR</urun> 
+			<tutar>1,09</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="048" grupkod="6" depozito="1" carpan="2.1" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0"  dayanak12="0">
+			<kod>048</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK  AMBALAJLARI 0,2501-0,5 LİTRE ARASI</urun> 
+			<tutar>2,1</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="050" grupkod="6" depozito="1" carpan="3.2" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>050</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK  AMBALAJLARI 0,501-1 LİTRE ARASI</urun> 
+			<tutar>3,2</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="052" grupkod="6" depozito="1" carpan="5.4" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>052</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK  AMBALAJLARI 1,01-5 LİTRE ARASI</urun> 
+			<tutar>5,4</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="054" grupkod="6" depozito="1" carpan="10.9" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>054</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK  AMBALAJLARI 5,01 LİTRE VE ÜZERİ</urun> 
+			<tutar>10,9</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="056" grupkod="6" depozito="1" carpan="21" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>056</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu CAM İÇECEK AMBALAJLARI DİĞERLERİ</urun> 
+			<tutar>21</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="058" grupkod="6" depozito="1" carpan="10.9" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="0" dayanak6="0" dayanak7="0" dayanak8="0" dayanak9="0" dayanak10="0" dayanak11="0" dayanak12="0">
+			<kod>058</kod> 
+			<grup>AMBALAJ</grup> 
+			<urun>Depozitolu AHŞAP AMBALAJ</urun> 
+			<tutar>10,9</tutar> 
+			<birim>KR/ADET</birim>
+		</data>
+		<data kod="060" grupkod="7" depozito="1" carpan="21" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>060</kod> 
+			<grup>AKÜMÜLATÖR</grup> 
+			<urun>Depozitolu KURŞUN ASİTLİ OLANLAR</urun> 
+			<tutar>21</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="062" grupkod="7" depozito="1" carpan="54" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>062</kod> 
+			<grup>AKÜMÜLATÖR</grup> 
+			<urun>Depozitolu NİKEL KADMİYUMLU OLANLAR</urun> 
+			<tutar>54</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+		<data kod="064" grupkod="7" depozito="1" carpan="5.4" dayanak1="1" dayanak2="1" dayanak3="1" dayanak4="1" dayanak5="1" dayanak6="1" dayanak7="1" dayanak8="1" dayanak9="1" dayanak10="1" dayanak11="0" dayanak12="0">
+			<kod>064</kod> 
+			<grup>AKÜMÜLATÖR</grup> 
+			<urun>Depozitolu DİĞERLERİ</urun> 
+			<tutar>5,4</tutar> 
+			<birim>KR/KG</birim>
+		</data>
+	</oncekiyildepozito>
+</kodlar>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref : ULKELER	ulkeler/ulke
+	Ref : ILLER		ilKodu/data/kod
+-->
+	<ulkeler>
+		<ulke>
+			<value>1</value>	
+			<text>Yurtiçi</text>
+		</ulke>
+		<ulke>
+			<value>2</value>	
+			<text>Yurtdışı</text>
+		</ulke>
+	</ulkeler>
+	<ilKodu>
+		<data> <kod>000</kod> <aciklama>YURTDIŞI</aciklama> </data>
+		<data> <kod>001</kod> <aciklama>ADANA</aciklama> </data>
+		<data> <kod>002</kod> <aciklama>ADIYAMAN</aciklama> </data>
+		<data> <kod>003</kod> <aciklama>AFYONKARAHİSAR</aciklama> </data>
+		<data> <kod>004</kod> <aciklama>AĞRI</aciklama> </data>
+		<data> <kod>005</kod> <aciklama>AMASYA</aciklama> </data>
+		<data> <kod>006</kod> <aciklama>ANKARA</aciklama> </data>
+		<data> <kod>007</kod> <aciklama>ANTALYA</aciklama> </data>
+		<data> <kod>008</kod> <aciklama>ARTVİN</aciklama> </data>
+		<data> <kod>009</kod> <aciklama>AYDIN</aciklama> </data>
+		<data> <kod>010</kod> <aciklama>BALIKESİR</aciklama> </data>
+		<data> <kod>011</kod> <aciklama>BİLECİK</aciklama> </data>
+		<data> <kod>012</kod> <aciklama>BİNGÖL</aciklama> </data>
+		<data> <kod>013</kod> <aciklama>BİTLİS</aciklama> </data>
+		<data> <kod>014</kod> <aciklama>BOLU</aciklama> </data>
+		<data> <kod>015</kod> <aciklama>BURDUR</aciklama> </data>
+		<data> <kod>016</kod> <aciklama>BURSA</aciklama> </data>
+		<data> <kod>017</kod> <aciklama>ÇANAKKALE</aciklama> </data>
+		<data> <kod>018</kod> <aciklama>ÇANKIRI</aciklama> </data>
+		<data> <kod>019</kod> <aciklama>ÇORUM</aciklama> </data>
+		<data> <kod>020</kod> <aciklama>DENİZLİ</aciklama> </data>
+		<data> <kod>021</kod> <aciklama>DİYARBAKIR</aciklama> </data>
+		<data> <kod>022</kod> <aciklama>EDİRNE</aciklama> </data>
+		<data> <kod>023</kod> <aciklama>ELAZIĞ</aciklama> </data>
+		<data> <kod>024</kod> <aciklama>ERZİNCAN</aciklama> </data>
+		<data> <kod>025</kod> <aciklama>ERZURUM</aciklama> </data>
+		<data> <kod>026</kod> <aciklama>ESKİŞEHİR</aciklama> </data>
+		<data> <kod>027</kod> <aciklama>GAZİANTEP</aciklama> </data>
+		<data> <kod>028</kod> <aciklama>GİRESUN</aciklama> </data>
+		<data> <kod>029</kod> <aciklama>GÜMÜŞHANE</aciklama> </data>
+		<data> <kod>030</kod> <aciklama>HAKKARİ</aciklama> </data>
+		<data> <kod>031</kod> <aciklama>HATAY</aciklama> </data>
+		<data> <kod>032</kod> <aciklama>ISPARTA</aciklama> </data>
+		<data> <kod>033</kod> <aciklama>MERSİN</aciklama> </data>
+		<data> <kod>034</kod> <aciklama>İSTANBUL</aciklama> </data>
+		<data> <kod>035</kod> <aciklama>İZMİR</aciklama> </data>
+		<data> <kod>036</kod> <aciklama>KARS</aciklama> </data>
+		<data> <kod>037</kod> <aciklama>KASTAMONU</aciklama> </data>
+		<data> <kod>038</kod> <aciklama>KAYSERİ</aciklama> </data>
+		<data> <kod>039</kod> <aciklama>KIRKLARELİ</aciklama> </data>
+		<data> <kod>040</kod> <aciklama>KIRŞEHİR</aciklama> </data>
+		<data> <kod>041</kod> <aciklama>KOCAELİ</aciklama> </data>
+		<data> <kod>042</kod> <aciklama>KONYA</aciklama> </data>
+		<data> <kod>043</kod> <aciklama>KÜTAHYA</aciklama> </data>
+		<data> <kod>044</kod> <aciklama>MALATYA</aciklama> </data>
+		<data> <kod>045</kod> <aciklama>MANİSA</aciklama> </data>
+		<data> <kod>046</kod> <aciklama>KAHRAMANMARAŞ</aciklama> </data>
+		<data> <kod>047</kod> <aciklama>MARDİN</aciklama> </data>
+		<data> <kod>048</kod> <aciklama>MUĞLA</aciklama> </data>
+		<data> <kod>049</kod> <aciklama>MUŞ</aciklama> </data>
+		<data> <kod>050</kod> <aciklama>NEVŞEHİR</aciklama> </data>
+		<data> <kod>051</kod> <aciklama>NİĞDE</aciklama> </data>
+		<data> <kod>052</kod> <aciklama>ORDU</aciklama> </data>
+		<data> <kod>053</kod> <aciklama>RİZE</aciklama> </data>
+		<data> <kod>054</kod> <aciklama>SAKARYA</aciklama> </data>
+		<data> <kod>055</kod> <aciklama>SAMSUN</aciklama> </data>
+		<data> <kod>056</kod> <aciklama>SİİRT</aciklama> </data>
+		<data> <kod>057</kod> <aciklama>SİNOP</aciklama> </data>
+		<data> <kod>058</kod> <aciklama>SİVAS</aciklama> </data>
+		<data> <kod>059</kod> <aciklama>TEKİRDAĞ</aciklama> </data>
+		<data> <kod>060</kod> <aciklama>TOKAT</aciklama> </data>
+		<data> <kod>061</kod> <aciklama>TRABZON</aciklama> </data>
+		<data> <kod>062</kod> <aciklama>TUNCELİ</aciklama> </data>
+		<data> <kod>063</kod> <aciklama>ŞANLIURFA</aciklama> </data>
+		<data> <kod>064</kod> <aciklama>UŞAK</aciklama> </data>
+		<data> <kod>065</kod> <aciklama>VAN</aciklama> </data>
+		<data> <kod>066</kod> <aciklama>YOZGAT</aciklama> </data>
+		<data> <kod>067</kod> <aciklama>ZONGULDAK</aciklama> </data>
+		<data> <kod>068</kod> <aciklama>AKSARAY</aciklama> </data>
+		<data> <kod>069</kod> <aciklama>BAYBURT</aciklama> </data>
+		<data> <kod>070</kod> <aciklama>KARAMAN</aciklama> </data>
+		<data> <kod>071</kod> <aciklama>KIRIKKALE</aciklama> </data>
+		<data> <kod>072</kod> <aciklama>BATMAN</aciklama> </data>
+		<data> <kod>073</kod> <aciklama>ŞIRNAK</aciklama> </data>
+		<data> <kod>074</kod> <aciklama>BARTIN</aciklama> </data>
+		<data> <kod>075</kod> <aciklama>ARDAHAN</aciklama> </data>
+		<data> <kod>076</kod> <aciklama>IĞDIR</aciklama> </data>
+		<data> <kod>077</kod> <aciklama>YALOVA</aciklama> </data>
+		<data> <kod>078</kod> <aciklama>KARABÜK</aciklama> </data>
+		<data> <kod>079</kod> <aciklama>KİLİS</aciklama> </data>
+		<data> <kod>080</kod> <aciklama>OSMANİYE</aciklama> </data>
+		<data> <kod>081</kod> <aciklama>DÜZCE</aciklama> </data>
+	</ilKodu>
+</kodlar>

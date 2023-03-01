@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<iktisadiKiymetKod>
+		<data>
+			<kod>1</kod>
+			<ad>Amortismana tabi olmayan gayrimenkul (boş arazi ve boş arsalar)</ad>
+		</data>
+		<data>
+			<kod>2</kod>
+			<ad>Amortismana tabi gayrimenkul (gayrimenkullerin mütemmim cüzüleri ve teferruatı dahil)</ad>
+		</data>
+		<data>
+			<kod>3</kod>
+			<ad>Tesis ve arazi düzenlemeleri (tarım işletmelerinde vücuda getirilen meyvalık, dutluk, fındıklık, zeytinlik ve güllüklerle incir bahçeleri ve bağlar gibi tarım tesisleri dahil)</ad>
+		</data>
+		<data>
+			<kod>4</kod>
+			<ad>Makinalar</ad>
+		</data>
+		<data>
+			<kod>5</kod>
+			<ad>Gemiler</ad>
+		</data>
+		<data>
+			<kod>6</kod>
+			<ad>Taşıtlar</ad>
+		</data>
+		<data>
+			<kod>7</kod>
+			<ad>Gayrimaddi iktisadi kıymetler (İmtiyaz hakları, patent, formül, dizayn, örnek kalıp, teknik bilgi, format, telif hakkı ve benzeri kalemler, lisans, kullanım hakkı ve izni veya devlet kurum ve kuruluşları tarafından verilen İşletme hakkı gibi diğer haklar ve bunların benzerleri)</ad>
+		</data>
+		<data>
+			<kod>8</kod>
+			<ad>Demirbaşlar</ad>
+		</data>
+		<data>
+			<kod>9</kod>
+			<ad>Özel maliyet bedelleri</ad>
+		</data>
+		<data>
+			<kod>10</kod>
+			<ad>Diğer amortismana tabi iktisadi kıymetler (şerefiye, aktifleştirilen ilk tesis ve taazzuv giderleri, araştırma-geliştirme harcamaları, sinema filmleri gibi)</ad>
+		</data>
+	</iktisadiKiymetKod>
+</kodlar>

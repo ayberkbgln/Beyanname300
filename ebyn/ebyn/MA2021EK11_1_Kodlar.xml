@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<vergiOranlari>
+		<vergiOrani><yil>2016</yil><oran>1</oran></vergiOrani>
+		<vergiOrani><yil>2017</yil><oran>1</oran></vergiOrani>
+		<vergiOrani><yil>2018</yil><oran>1</oran></vergiOrani>
+		<vergiOrani><yil>2019</yil><oran>1</oran></vergiOrani>
+		<vergiOrani><yil>2020</yil><oran>1</oran></vergiOrani>
+	</vergiOranlari>
+	<yillikGayriSafiTutarlar>
+		<yillikGayriSafiTutar><yil>2016</yil><gayriSafiTutar>47000.00</gayriSafiTutar><oran>3</oran></yillikGayriSafiTutar>
+		<yillikGayriSafiTutar><yil>2017</yil><gayriSafiTutar>49800.00</gayriSafiTutar><oran>3</oran></yillikGayriSafiTutar>
+		<yillikGayriSafiTutar><yil>2018</yil><gayriSafiTutar>52900.00</gayriSafiTutar><oran>3</oran></yillikGayriSafiTutar>
+		<yillikGayriSafiTutar><yil>2019</yil><gayriSafiTutar>56200.00</gayriSafiTutar><oran>3</oran></yillikGayriSafiTutar>
+		<yillikGayriSafiTutar><yil>2020</yil><gayriSafiTutar>63700.00</gayriSafiTutar><oran>3</oran></yillikGayriSafiTutar>
+	</yillikGayriSafiTutarlar>
+</kodlar>

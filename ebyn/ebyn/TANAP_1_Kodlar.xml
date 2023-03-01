@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<kodlar>
+	<kurucuYatirimcilar>
+		<kurucuYatirimci>
+			<kod>1</kod>
+			<ad>Southern Gas Corridor Closed Joint Stock Company (Azerbaycan)</ad>
+			<oran>51</oran>
+		</kurucuYatirimci>
+		<kurucuYatirimci>
+			<kod>2</kod>
+			<ad>Boru Hatları ile Petrol Taşıma Anonim Şirketi (Türkiye)</ad>
+			<oran>30</oran>
+		</kurucuYatirimci>
+		<kurucuYatirimci>
+			<kod>3</kod>
+			<ad>BP Pipelines (TANAP) Limited (Birleşik Krallık)</ad>
+			<oran>12</oran>
+		</kurucuYatirimci>
+		<kurucuYatirimci>
+			<kod>4</kod>
+			<ad>Socar Turkey Enerji A.Ş. (Türkiye)</ad>
+			<oran>7</oran>
+		</kurucuYatirimci>
+	</kurucuYatirimcilar>
+</kodlar>

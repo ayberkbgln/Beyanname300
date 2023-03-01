@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="bdp.jar"/>
+	<classpathentry kind="lib" path="beydef.jar" sourcepath="ice-5_06_3.jar"/>
+	<classpathentry kind="lib" path="cs_mdi.jar"/>
+	<classpathentry kind="lib" path="csfc.jar"/>
+	<classpathentry kind="lib" path="debugger.jar"/>
+	<classpathentry kind="lib" path="ice-5_06_3.jar"/>
+	<classpathentry kind="lib" path="JavaRenderer.jar"/>
+	<classpathentry kind="lib" path="lf.jar"/>
+	<classpathentry kind="lib" path="Yeni klasör (2)/features/org.jd.ide.eclipse.feature_2.0.0.jar"/>
+	<classpathentry kind="lib" path="Yeni klasör (2)/jd-gui-1.6.6.jar"/>
+	<classpathentry kind="lib" path="Yeni klasör (2)/plugins/org.jd.ide.eclipse.plugin_2.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

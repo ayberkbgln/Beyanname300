@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<vergiOranlari>
+		<vergiOrani><yil>2016</yil><oran>6</oran></vergiOrani>
+		<vergiOrani><yil>2017</yil><oran>5</oran></vergiOrani>
+		<vergiOrani><yil>2018</yil><oran>4</oran></vergiOrani>
+		<vergiOrani><yil>2019</yil><oran>3</oran></vergiOrani>
+		<vergiOrani><yil>2020</yil><oran>2</oran></vergiOrani>
+	</vergiOranlari>
+	<yillikMatrahlar>
+		<yillikMatrah><yil>2016</yil><matrah>9400.00</matrah><oran>15</oran></yillikMatrah>
+		<yillikMatrah><yil>2017</yil><matrah>9960.00</matrah><oran>15</oran></yillikMatrah>
+		<yillikMatrah><yil>2018</yil><matrah>10580.00</matrah><oran>15</oran></yillikMatrah>
+		<yillikMatrah><yil>2019</yil><matrah>11240.00</matrah><oran>15</oran></yillikMatrah>
+		<yillikMatrah><yil>2020</yil><matrah>12740.00</matrah><oran>15</oran></yillikMatrah>
+	</yillikMatrahlar>
+</kodlar>

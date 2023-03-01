@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: BMVB_APT bankaMuameleleri/paraTuru/kod
+-->
+<bankaMuameleleri>
+	<paraTuru>
+		<kod>101</kod>
+		<aciklama>Faiz</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>102</kod>
+		<aciklama>İskonto</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>103</kod>
+		<aciklama>Komisyon</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>104</kod>
+		<aciklama>Her Nevi Kiralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>105</kod>
+		<aciklama>Sigorta Komisyonları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>106</kod>
+		<aciklama>Hizmet Mukabili Sair Gelirler</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>107</kod>
+		<aciklama>Masraf Karşılığı</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>108</kod>
+		<aciklama>Esham ve Tahvilat Satış Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>109</kod>
+		<aciklama>Esham ve Tahvilattan Faiz, İkramiye ve Temettü</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>110</kod>
+		<aciklama>Aciyo</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>111</kod>
+		<aciklama>Kliring ve Hususi Takas Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>112</kod>
+		<aciklama>Kabarit Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>113</kod>
+		<aciklama>Hususi Portföy Gelirleri</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>114</kod>
+		<aciklama>Dahili Kambiyo</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>115</kod>
+		<aciklama>Pul Bey'iyesi</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>116</kod>
+		<aciklama>Muhtelif Malzeme Satışları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>117</kod>
+		<aciklama>İştirak Gelirleri</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>118</kod>
+		<aciklama>Gayri Menkul Alım-Satım Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>119</kod>
+		<aciklama>Bankalararası Mevduat Muameleleri Sonucu Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>120</kod>
+		<aciklama>Bankalar ile 2499 Sayılı S.P.K.'na Göre Kurulan Aracı Kurumlar Arasındaki Borsa Para Piyasası İşlemleri Sonucu Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>126</kod>
+		<aciklama>2004/7131 Sayılı Karar Kapsamında,KOSGEB ile Banka Arasında Yapılacak Protokoller Çerçevesinde Kullandırılacak Krediler(Türkiye Halk Bankası A.Ş. Tarafından Kullandırılacak Krediler Hariç)Dolayısıyla Lehe Alınan Paralar </aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>129</kod>
+		<aciklama>Merkez Bankasınca İhraç Edilen Likidite  Senetlerinin Geri Alım Ve Satım Taahhüdü İle İktisap veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>130</kod>
+		<aciklama>Merkez Bankasınca İhraç Edilen Likidite  Senetlerinin Vadesi Beklenilmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>131</kod>
+		<aciklama>2009/15095 Sayılı Karar Kapsamında Bankaların; TMO Tarafından 2699 Sayılı Umumi Mağazalar Kanunu Hükümlerine Göre Düzenlenen Makbuz Senetleri İle Lisanslı Depoculuk Şirketleri Tarafından 5300 Sayılı Kanun Hükümlerine Göre Düzenlenen Ürün Senetleri Karşılığında Gerçek Veya Tüzel Kişilere Kullandıracağı Krediler Ve TMO'nun Bu Kararın 6 ncı Maddesi Kapsamında Yurt İçinden veya Yurt Dışından Kullanacağı Döviz Ya Da TL Cinsi Krediler Nedeniyle Lehe Aldıkları Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>124</kod>
+		<aciklama>Müteferrik</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>132</kod>
+		<aciklama>Devlet Tahvili, Gelire Endeksli Senetler ve Hazine Bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerin Geri Alım ve Satım Taahhüdü İle İktisap Veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>133</kod>
+		<aciklama>Devlet Tahvili, Gelire Endeksli Senetler ve Hazine Bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerin Vadesi Beklenmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>134</kod>
+		<aciklama>Yurt İçinde Türk Lirası Cinsinden İhraç Edilen Tahviller ve Varlık Kiralama Şirketleri Tarafından İhraç Edilen Kira Sertifikalarının Geri Alım ve Satım Taahhüdü ile İktisap veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>135</kod>
+		<aciklama>Yurt İçinde Türk Lirası Cinsinden İhraç Edilen Tahviller ve Varlık Kiralama Şirketleri Tarafından İhraç Edilen Kira Sertifikalarının  Vadesi Beklenmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>137</kod>
+		<aciklama>Tüketici Kredilerinde Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+</bankaMuameleleri>
+<ekBankaMuameleleri>
+	<paraTuru>
+		<kod>101</kod>
+		<aciklama>Faiz</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>102</kod>
+		<aciklama>İskonto</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>103</kod>
+		<aciklama>Komisyon</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>104</kod>
+		<aciklama>Her Nevi Kiralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>105</kod>
+		<aciklama>Sigorta Komisyonları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>106</kod>
+		<aciklama>Hizmet Mukabili Sair Gelirler</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>107</kod>
+		<aciklama>Masraf Karşılığı</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>108</kod>
+		<aciklama>Esham ve Tahvilat Satış Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>109</kod>
+		<aciklama>Esham ve Tahvilattan Faiz, İkramiye ve Temettü</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>110</kod>
+		<aciklama>Aciyo</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>111</kod>
+		<aciklama>Kliring ve Hususi Takas Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>112</kod>
+		<aciklama>Kabarit Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>113</kod>
+		<aciklama>Hususi Portföy Gelirleri</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>114</kod>
+		<aciklama>Dahili Kambiyo</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>115</kod>
+		<aciklama>Pul Bey'iyesi</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>116</kod>
+		<aciklama>Muhtelif Malzeme Satışları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>117</kod>
+		<aciklama>İştirak Gelirleri</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>118</kod>
+		<aciklama>Gayri Menkul Alım-Satım Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>119</kod>
+		<aciklama>Bankalararası Mevduat Muameleleri Sonucu Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>120</kod>
+		<aciklama>Bankalar ile 2499 Sayılı S.P.K.'na Göre Kurulan Aracı Kurumlar Arasındaki Borsa Para Piyasası İşlemleri Sonucu Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>126</kod>
+		<aciklama>2004/7131 Sayılı Karar Kapsamında,KOSGEB ile Banka Arasında Yapılacak Protokoller Çerçevesinde Kullandırılacak Krediler(Türkiye Halk Bankası A.Ş. Tarafından Kullandırılacak Krediler Hariç)Dolayısıyla Lehe Alınan Paralar </aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>129</kod>
+		<aciklama>Merkez Bankasınca İhraç Edilen Likidite  Senetlerinin Geri Alım Ve Satım Taahhüdü İle İktisap veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>130</kod>
+		<aciklama>Merkez Bankasınca İhraç Edilen Likidite  Senetlerinin Vadesi Beklenilmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>131</kod>
+		<aciklama>2009/15095 Sayılı Karar Kapsamında;Bankaların, TMO Tarafından 2699 Sayılı Umumi Mağazalar Kanunu Hükümlerine Göre Düzenlenen Makbuz Senetlerini Teminat Olarak Gösteren Gerçek Veya Tüzel Kişilere Kullandıracağı Krediler ile TMO'nun Bu Kararın 6nci Maddesi Kapsamında Yurt İçinden veya yurt dışından Kullanacağı Döviz ya da TL Cinsi Krediler Nedeniyle Lehe Aldıkları Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>124</kod>
+		<aciklama>Müteferrik</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>132</kod>
+		<aciklama>Devlet Tahvili, Gelire Endeksli Senetler ve Hazine Bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerin Geri Alım ve Satım Taahhüdü İle İktisap Veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>133</kod>
+		<aciklama>Devlet Tahvili, Gelire Endeksli Senetler ve Hazine Bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerin Vadesi Beklenmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>134</kod>
+		<aciklama>Yurt İçinde Türk Lirası Cinsinden İhraç Edilen Tahviller ve Varlık Kiralama Şirketleri Tarafından İhraç Edilen Kira Sertifikalarının Geri Alım ve Satım Taahhüdü ile İktisap veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>135</kod>
+		<aciklama>Yurt İçinde Türk Lirası Cinsinden İhraç Edilen Tahviller ve Varlık Kiralama Şirketleri Tarafından İhraç Edilen Kira Sertifikalarının  Vadesi Beklenmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>136</kod>
+		<aciklama>Kambiyo Satış Bedelleri Toplamı</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>137</kod>
+		<aciklama>Tüketici Kredilerinde Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+</ekBankaMuameleleri>
+<kanunIstisnaTurleri>
+	<istisnaTuru>
+		<kod>1</kod>
+		<aciklama>c-1) Hususi kanunlarla her türlü vergiden istisna edilmiş olan esham ve tahvillerin, faiz, temettü ve ikramiyeleri</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>2</kod>
+		<aciklama>c-2) Merkez Bankasınca ihraç edilen likidite senetlerinden elde edilen faiz gelirleri</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>3</kod>
+		<aciklama>c-3) 28.3.2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunun 7/A maddesine göre kurulan varlık kiralama şirketleri tarafından ihraç edilen kira sertifikalarından elde edilen kira gelirleri ve vade sonunda lehe alınan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>4</kod>
+		<aciklama>ç)* Varlık finansmanı fonlarının sermaye piyasalarında yaptıkları işlemler nedeniyle elde ettikleri paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>5</kod>
+		<aciklama>d) Bankaların müşterileri nam ve hesabına başka şahıs ve müesseselere yaptırdıkları hizmetler mukabili olarak aldıkları ve aynen mezkûr şahıs veya müesseselere ödedikleri paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>6</kod>
+		<aciklama>e) Bankaların, bankerlerin ve sigorta şirketlerinin sermayelerinin tamamı kendilerine ait veya iştirakleri bulunan sınaî işletmelerden sağladıkları kârlar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>7</kod>
+		<aciklama>f) Bankaların, bankerlerin ve sigorta şirketlerinin sermayelerine iştirak ettikleri banka, banker ve sigorta şirketlerinin 6802 sayılı Kanuna göre banka ve sigorta muameleleri vergisine tabi muamelelerden mütevellit karları</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>8</kod>
+		<aciklama>m-1)** Halk Bankası'nın ihtisas kredileri kapsamında küçük ve orta ölçekli sanayi işletmelerine verdiği krediler ya da bu işletmelerin dış ticaret işlemlerine yaptığı aracılık hizmetleri dolayısıyla aldığı paralar </aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>9</kod>
+		<aciklama>m-2)** Halk Bankası'nın Esnaf ve Sanatkârlar Kefalet Kooperatiflerinin kefaleti altında esnaf ve sanatkârlara verdiği krediler dolayısıyla alınan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>10</kod>
+		<aciklama>n) Mevduat toplamayan bankaların açmış oldukları yatırım kredileri dolayısıyla kendi lehlerine aldıkları paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>11</kod>
+		<aciklama>o) Bankaların, yetkili müesseselerin, özel finans kuruluşlarının ve PTT'nin Türk Parası Kıymetini Koruma Hakkındaki Kararlar ve bu kararlara dayanılarak çıkarılan tebliğlere göre Merkez Bankasına yapacakları zorunlu, döviz ve efektif devirleri</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>12</kod>
+		<aciklama>p-1) Arbitraj muameleleri ve bu muameleler sonucu lehe alınan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>13</kod>
+		<aciklama>p-2) Vadeli işlem ve opsiyon sözleşmelerine ilişkin muameleler ve bu muameleler sonucu lehe alınan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>14</kod>
+		<aciklama>p-2-I) Forward sözleşmelerine ilişkin muameleler ve bu muameleler sonucu lehe alınan paralari</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>15</kod>
+		<aciklama>p-2-II) Swap sözleşmelerine ilişkin muameleler ve bu muameleler sonucu lehe alınan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>16</kod>
+		<aciklama>p-2-III) Opsiyon sözleşmelerine ilişkin muameleler ve bu muameleler sonucu lehe alınan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>17</kod>
+		<aciklama>p-2-IV) Future sözleşmelerine ilişkin muameleler ve bu muameleler sonucu lehe alınan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>18</kod>
+		<aciklama>s)  Kurumlar Vergisi Kanununa göre yapılan birleşme, devir, bölünme ve hisse değişimi işlemlerinden doğan kazançlar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>19</kod>
+		<aciklama>t-1) Emeklilik yatırım fonlarının, menkul kıymet yatırım fonlarının, menkul kıymet yatırım ortaklıklarının, girişim sermayesi yatırım fonlarının ve girişim sermayesi yatırım ortaklıklarının para piyasalarında yaptıkları işlemler nedeniyle elde ettikleri paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>20</kod>
+		<aciklama>t-2) Emeklilik yatırım fonlarının, menkul kıymet yatırım fonlarının, menkul kıymet yatırım ortaklıklarının, girişim sermayesi yatırım fonlarının ve girişim sermayesi yatırım ortaklıklarının sermaye piyasalarında yaptıkları işlemler nedeniyle elde ettikleri paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>21</kod>
+		<aciklama>u) Bankalar, sigorta şirketleri, emeklilik şirketleri ve ipotek finansmanı kuruluşlarının kuruluşlarında veya sermayelerini artırdıkları sırada çıkardıkları hisse senetlerinin itibari değerlerinin üzerinde elden çıkarılması sonucu kendi lehlerine kalan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>22</kod>
+		<aciklama>v) 5422 sayılı Kurumlar Vergisi Kanununun 8 inci maddesinin birinci fıkrasının (12) numaralı bendi (5520 sayılı Kurumlar Vergisi Kanununun 5/1-e ve f maddeleri) kapsamındaki işlemler dolayısıyla lehe alınan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>23</kod>
+		<aciklama>y-1) 2499 sayılı Sermaye Piyasası Kanununun 38/A maddesinin birinci fıkrasında (6362 sayılı Sermaye Piyasası Kanununun 57. maddesinde) tanımlanan konut finansmanı kapsamında konut edinmeleri amacıyla tüketicilere kredi kullandırılması dolayısıyla lehe alınan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>24</kod>
+		<aciklama>y-2) 2499 sayılı Sermaye Piyasası Kanununun 38/A maddesinin birinci fıkrasına (6362 sayılı Sermaye Piyasası Kanununun 57. maddesine) göre sahip oldukları konutların teminatı altında tüketicilere kredi kullandırılması dolayısıyla lehe alınan paralar (konut edinimi amacı taşımayan krediler)</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>25</kod>
+		<aciklama>y-3) 2499 sayılı Sermaye Piyasası Kanununun 38/A maddesinin birinci fıkrasında (6362 sayılı Sermaye Piyasası Kanununun 57. maddesinde) tanımlanan konut finansmanı kapsamında konut edinmeleri amacıyla tüketicilere kullandırılan kredilerin refinansmanı dolayısıyla lehe alınan paralar</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>26</kod>
+		<aciklama>z) 17.4.1957 tarihli ve 6948 sayılı Sanayi Sicili Kanununa göre sanayi sicil belgesini haiz sanayi işletmelerince münhasıran imalat sanayinde kullanılmak üzere alınan makine ve teçhizatın finansmanı için bu işletmeler tarafından kullanılan krediler dolayısıyla lehe alınan paralar </aciklama>
+	</istisnaTuru>
+</kanunIstisnaTurleri>
+<digerKanunIstisnaTurleri>
+	<istisnaTuru>
+		<kod>1</kod>
+		<aciklama>a) 99/13812 sayılı İhracat, İhracat Sayılan Satış ve Teslimler İle Döviz Kazandırıcı Hizmet ve Faaliyetlerde Vergi Resim Harç İstisna Hakkında Bakanlar Kurulu Kararı kapsamındaki işlemler</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>2</kod>
+		<aciklama>b) 6306 sayılı Kanun kapsamında kullanılan krediler</aciklama>
+	</istisnaTuru>
+	<istisnaTuru>
+		<kod>3</kod>
+		<aciklama>c) Diğer (İstisna uygulanması nedeniyle beyan edilmeyen her bir istisnalı işlem türü, kanun adı, kanuni dayanakları ile birlikte ayrı ayrı sütunlarda toplam rakamları ayrı ayrı olacak şekilde yazılacaktır.)</aciklama>
+	</istisnaTuru>
+</digerKanunIstisnaTurleri>
+<islemGelirTurleri>
+	<data>
+		<kod>1001</kod>
+		<aciklama>1. NAKDİ KREDİLER</aciklama>
+	</data>
+	<data>
+		<kod>1002</kod>
+		<aciklama>  1.1. Tüketici Kredileri</aciklama>
+	</data>
+	<data>
+		<kod>1003</kod>
+		<aciklama>    	1.1.1. Kredi Kartları</aciklama>
+	</data>
+	<data>
+		<kod>1004</kod>
+		<aciklama>    	1.1.2. Konut Kredisi</aciklama>
+	</data>
+	<data>
+		<kod>1005</kod>
+		<aciklama>    	1.1.3. Taşıt Kredisi</aciklama>
+	</data>
+	<data>
+		<kod>1006</kod>
+		<aciklama>    	1.1.4. İhtiyaç Kredisi</aciklama>
+	</data>
+	<data>
+		<kod>1007</kod>
+		<aciklama>    	1.1.5. Diğer</aciklama>
+	</data>
+	<data>
+		<kod>1008</kod>
+		<aciklama>  1.2. Ticari ve Kurumsal Krediler</aciklama>
+	</data>
+	<data>
+		<kod>1009</kod>
+		<aciklama>    	1.2.1. Kredi Kartları</aciklama>
+	</data>
+	<data>
+		<kod>1010</kod>
+		<aciklama>    	1.2.2. İhracat Kredisi</aciklama>
+	</data>
+	<data>
+		<kod>1011</kod>
+		<aciklama>    	1.2.3. İthalat Kredisi</aciklama>
+	</data>
+	<data>
+		<kod>1012</kod>
+		<aciklama>    	1.2.4. Yatırım Kredisi</aciklama>
+	</data>
+	<data>
+		<kod>1013</kod>
+		<aciklama>    	1.2.5. İşletme Kredisi</aciklama>
+	</data>
+	<data>
+		<kod>1014</kod>
+		<aciklama>    	1.2.6. İhtisas Kredileri</aciklama>
+	</data>
+	<data>
+		<kod>1015</kod>
+		<aciklama>    	1.2.7. İskonto İşlemleri</aciklama>
+	</data>
+	<data>
+		<kod>1016</kod>
+		<aciklama>    	1.2.8. Diğer</aciklama>
+	</data>
+	<data>
+		<kod>1017</kod>
+		<aciklama>  1.3. KOBİ Kredileri</aciklama>
+	</data>
+	<data>
+		<kod>1018</kod>
+		<aciklama>2. GAYRİNAKDİ KREDİLER</aciklama>
+	</data>
+	<data>
+		<kod>1019</kod>
+		<aciklama>  2.1. Teminat Mektupları</aciklama>
+	</data>
+	<data>
+		<kod>1020</kod>
+		<aciklama>  2.2. Kontrgarantiler</aciklama>
+	</data>
+	<data>
+		<kod>1021</kod>
+		<aciklama>  2.3. Kefaletler</aciklama>
+	</data>
+	<data>
+		<kod>1022</kod>
+		<aciklama>  2.4. Akreditifler</aciklama>
+	</data>
+	<data>
+		<kod>1023</kod>
+		<aciklama>  2.5. Diğer</aciklama>
+	</data>
+</islemGelirTurleri>
+<ucretIslemGelirTurleri>
+	<data>
+		<kod>2001</kod>
+		<aciklama>1. BİREYSEL MÜŞTERİLER</aciklama>
+	</data>
+	<data>
+		<kod>2002</kod>
+		<aciklama>  1.1. Kredilere Yönelik Ücret ve Komisyonlar</aciklama>
+	</data>
+	<data>
+		<kod>2003</kod>
+		<aciklama>  1.2. EFT, Havale ve Fon Transferlerine Yönelik Ücret ve Komisyonlar</aciklama>
+	</data>
+	<data>
+		<kod>2004</kod>
+		<aciklama>  1.3. Kredi Kartı Ücret ve Komisyonları</aciklama>
+	</data>
+	<data>
+		<kod>2005</kod>
+		<aciklama>  1.4. Kiralık Kasa Ücretleri</aciklama>
+	</data>
+	<data>
+		<kod>2006</kod>
+		<aciklama>  1.5. Aracılık İşlemlerinden Elde Edilen Ücret ve Komisyonlar</aciklama>
+	</data>
+	<data>
+		<kod>2007</kod>
+		<aciklama>  1.6. Diğer Ücret ve Komisyonlar</aciklama>
+	</data>
+	<data>
+		<kod>2008</kod>
+		<aciklama>2. TİCARİ MÜŞTERİLER</aciklama>
+	</data>
+	<data>
+		<kod>2009</kod>
+		<aciklama>  2.1. Kredilere Yönelik Ücret ve Komisyonlar</aciklama>
+	</data>
+	<data>
+		<kod>2010</kod>
+		<aciklama>  2.2. İthalat İşlemlerine Yönelik Ücret ve Komisyonlar</aciklama>
+	</data>
+	<data>
+		<kod>2011</kod>
+		<aciklama>  2.3. İhracat İşlemlerine Yönelik Ücret ve Komisyonlar</aciklama>
+	</data>
+	<data>
+		<kod>2012</kod>
+		<aciklama>  2.4. EFT, Havale ve Fon Transferine Yönelik Ücret ve Komisyonlar</aciklama>
+	</data>
+	<data>
+		<kod>2013</kod>
+		<aciklama>  2.5. Çek ve Senetlere Yönelik Ücret ve Komisyonlar</aciklama>
+	</data>
+	<data>
+		<kod>2014</kod>
+		<aciklama>  2.6. Üye İşyeri Ücret ve Komisyonları</aciklama>
+	</data>
+	<data>
+		<kod>2015</kod>
+		<aciklama>  2.7. Nakdi Kredi-Erken Ödeme Ücreti</aciklama>
+	</data>
+	<data>
+		<kod>2016</kod>
+		<aciklama>  2.8. Aracılık İşlemlerinden Elde Edilen Ücret ve Komisyonlar</aciklama>
+	</data>
+	<data>
+		<kod>2017</kod>
+		<aciklama>  2.9. Diğer Ücret ve Komisyonlar</aciklama>
+	</data>
+</ucretIslemGelirTurleri>
+<kambiyoIslemTurleri>
+	<data>
+		<kod>3001</kod>
+		<aciklama>1. 98/11591 Sayılı BKK  Eki Kararın 1/1-e Maddesi Kapsamında Sıfır Orana Tabi İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>3002</kod>
+		<aciklama> 1.1. Bankalar ile yetkili müesseselerin kendi aralarında veya birbirlerine yaptıkları kambiyo satışları</aciklama>
+	</data>
+	<data>
+		<kod>3003</kod>
+		<aciklama> 1.2. Hazine ve Maliye Bakanlığına yapılan kambiyo satışları</aciklama>
+	</data>
+	<data>
+		<kod>3004</kod>
+		<aciklama> 1.3. Döviz kredisinin ödenmesine yönelik olarak, döviz kredisi kullanılan ya da kullanımına aracılık eden banka tarafından kredi borçlusuna yapılan kambiyo satışları</aciklama>
+	</data>
+	<data>
+		<kod>3005</kod>
+		<aciklama> 1.4. Sanayi sicil belgesini haiz işletmelere yapılan kambiyo satışları</aciklama>
+	</data>
+	<data>
+		<kod>3006</kod>
+		<aciklama> 1.5. İhracatçı Birliklerine üye olan ihracatçılara yapılan kambiyo satışları</aciklama>
+	</data>
+	<data>
+		<kod>3007</kod>
+		<aciklama> 1.6. Bankacılık Kanunu uyarınca finansal kuruluş faaliyeti kabul edilen faaliyetlerden en az birini yapan yurt dışında mukim kuruluşlara yapılan kambiyo satışları</aciklama>
+	</data>
+	<data>
+		<kod>3019</kod>
+		<aciklama> 1.7. 14/1/1970 tarihli ve 1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanununun 4 üncü maddesinin üçüncü fıkrasının (I) numaralı bendinin (g) alt bendi hükmüne istinaden Türk lirası mevduat ve katılma hesaplarına dönüşümün desteklenmesi kapsamında açılan Türk lirası hesapların vade sonu hesap bakiyesi kullanılmak suretiyle hesap sahiplerine ilgili banka tarafından yapılan kambiyo satışları</aciklama>
+	</data>
+	<data>
+		<kod>3008</kod>
+		<aciklama>2. Yabancı Para Satışları</aciklama>
+	</data>
+	<data>
+		<kod>3009</kod>
+		<aciklama>3. Altın Satışları (Fiziki teslimata konu olmayan işlemler)</aciklama>
+	</data>
+	<data>
+		<kod>3010</kod>
+		<aciklama>4. Diğer Kıymetli Maden Satışları (Fiziki teslimata konu olmayan işlemler)</aciklama>
+	</data>
+	<data>
+		<kod>3011</kod>
+		<aciklama>5. 6802 Sayılı Kanunun 29/p Maddesine Göre İstisna Uygulanan ve Fiziki Teslimata Konu Edilen Vadeli İşlem ve Opsiyon Sözleşmeleri Kapsamındaki Kambiyoya Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>3012</kod>
+		<aciklama>  5.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>3013</kod>
+		<aciklama>  5.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>3014</kod>
+		<aciklama>  5.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>3015</kod>
+		<aciklama>  5.4. 61 gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>3016</kod>
+		<aciklama>  5.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>3017</kod>
+		<aciklama>  5.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>3018</kod>
+		<aciklama>  5.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+</kambiyoIslemTurleri>
+<kiymetliIslemTurleri>
+	<data>
+		<kod>4001</kod>
+		<aciklama>1. Altın Satışları (Fiziki teslimata konu işlemler)</aciklama>
+	</data>
+	<data>
+		<kod>4002</kod>
+		<aciklama>2. Diğer Kıymetli Maden Satışı (Fiziki teslimata konu işlemler)</aciklama>
+	</data>
+</kiymetliIslemTurleri>
+<vadeliSozlesmeAciklama>
+	<data>
+		<kod>5001</kod>
+		<aciklama>A- ORGANİZE PİYASA (BORSA) İŞLEMLERİ</aciklama>
+	</data>
+	<data>
+		<kod>5002</kod>
+		<aciklama>  1) Dövize Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>5003</kod>
+		<aciklama>    1.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5004</kod>
+		<aciklama>      1.1.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5005</kod>
+		<aciklama>      1.1.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5006</kod>
+		<aciklama>      1.1.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5007</kod>
+		<aciklama>      1.1.4. 61 gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5008</kod>
+		<aciklama>      1.1.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5009</kod>
+		<aciklama>      1.1.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5010</kod>
+		<aciklama>      1.1.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5011</kod>
+		<aciklama>    1.2. Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5012</kod>
+		<aciklama>      1.2.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5013</kod>
+		<aciklama>      1.2.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5014</kod>
+		<aciklama>      1.2.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5015</kod>
+		<aciklama>      1.2.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5016</kod>
+		<aciklama>      1.2.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5017</kod>
+		<aciklama>      1.2.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5018</kod>
+		<aciklama>      1.2.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5019</kod>
+		<aciklama>    1.3. Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5020</kod>
+		<aciklama>      1.3.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5021</kod>
+		<aciklama>      1.3.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5022</kod>
+		<aciklama>      1.3.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5023</kod>
+		<aciklama>      1.3.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5024</kod>
+		<aciklama>      1.3.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5025</kod>
+		<aciklama>      1.3.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5026</kod>
+		<aciklama>      1.3.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5027</kod>
+		<aciklama>  2) Altına Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>5028</kod>
+		<aciklama>    2.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5029</kod>
+		<aciklama>      2.1.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5030</kod>
+		<aciklama>      2.1.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5031</kod>
+		<aciklama>      2.1.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5032</kod>
+		<aciklama>      2.1.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5033</kod>
+		<aciklama>      2.1.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5034</kod>
+		<aciklama>      2.1.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5035</kod>
+		<aciklama>      2.1.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5036</kod>
+		<aciklama>    2.2.  Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5037</kod>
+		<aciklama>      2.2.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5038</kod>
+		<aciklama>      2.2.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5039</kod>
+		<aciklama>      2.2.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5040</kod>
+		<aciklama>      2.2.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5041</kod>
+		<aciklama>      2.2.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5042</kod>
+		<aciklama>      2.2.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5043</kod>
+		<aciklama>      2.2.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5044</kod>
+		<aciklama>    2.3.  Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5045</kod>
+		<aciklama>      2.3.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5046</kod>
+		<aciklama>      2.3.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5047</kod>
+		<aciklama>      2.3.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5048</kod>
+		<aciklama>      2.3.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5049</kod>
+		<aciklama>      2.3.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5050</kod>
+		<aciklama>      2.3.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5051</kod>
+		<aciklama>      2.3.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5052</kod>
+		<aciklama>  3) Diğer Varlıklara Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>5053</kod>
+		<aciklama>    3.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5054</kod>
+		<aciklama>      3.1.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5055</kod>
+		<aciklama>      3.1.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5056</kod>
+		<aciklama>      3.1.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5057</kod>
+		<aciklama>      3.1.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5058</kod>
+		<aciklama>      3.1.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5059</kod>
+		<aciklama>      3.1.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5060</kod>
+		<aciklama>      3.1.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5061</kod>
+		<aciklama>    3.2.  Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5062</kod>
+		<aciklama>      3.2.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5063</kod>
+		<aciklama>      3.2.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5064</kod>
+		<aciklama>      3.2.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5065</kod>
+		<aciklama>      3.2.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5066</kod>
+		<aciklama>      3.2.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5067</kod>
+		<aciklama>      3.2.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5068</kod>
+		<aciklama>      3.2.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5069</kod>
+		<aciklama>    3.3.  Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5070</kod>
+		<aciklama>      3.3.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5071</kod>
+		<aciklama>      3.3.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5072</kod>
+		<aciklama>      3.3.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5073</kod>
+		<aciklama>      3.3.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5074</kod>
+		<aciklama>      3.3.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5075</kod>
+		<aciklama>      3.3.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5076</kod>
+		<aciklama>      3.3.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5077</kod>
+		<aciklama>B- TEZGAHÜSTÜ PİYASA (BORSA DIŞI) İŞLEMLERİ</aciklama>
+	</data>
+	<data>
+		<kod>5078</kod>
+		<aciklama>  1) Dövize Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>5079</kod>
+		<aciklama>    1.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5080</kod>
+		<aciklama>      1.1.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5081</kod>
+		<aciklama>      1.1.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5082</kod>
+		<aciklama>      1.1.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5083</kod>
+		<aciklama>      1.1.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5084</kod>
+		<aciklama>      1.1.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5085</kod>
+		<aciklama>      1.1.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5086</kod>
+		<aciklama>      1.1.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5087</kod>
+		<aciklama>    1.2. Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5088</kod>
+		<aciklama>      1.2.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5089</kod>
+		<aciklama>      1.2.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5090</kod>
+		<aciklama>      1.2.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5091</kod>
+		<aciklama>      1.2.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5092</kod>
+		<aciklama>      1.2.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5093</kod>
+		<aciklama>      1.2.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5094</kod>
+		<aciklama>      1.2.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5095</kod>
+		<aciklama>    1.3. Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5096</kod>
+		<aciklama>      1.3.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5097</kod>
+		<aciklama>      1.3.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5098</kod>
+		<aciklama>      1.3.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5099</kod>
+		<aciklama>      1.3.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5100</kod>
+		<aciklama>      1.3.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5101</kod>
+		<aciklama>      1.3.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5102</kod>
+		<aciklama>      1.3.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5103</kod>
+		<aciklama>  2) Altına Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>5104</kod>
+		<aciklama>    2.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5105</kod>
+		<aciklama>      2.1.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5106</kod>
+		<aciklama>      2.1.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5107</kod>
+		<aciklama>      2.1.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5108</kod>
+		<aciklama>      2.1.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5109</kod>
+		<aciklama>      2.1.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5110</kod>
+		<aciklama>      2.1.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5111</kod>
+		<aciklama>      2.1.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5112</kod>
+		<aciklama>    2.2.  Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5113</kod>
+		<aciklama>      2.2.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5114</kod>
+		<aciklama>      2.2.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5115</kod>
+		<aciklama>      2.2.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5116</kod>
+		<aciklama>      2.2.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5117</kod>
+		<aciklama>      2.2.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5118</kod>
+		<aciklama>      2.2.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5119</kod>
+		<aciklama>      2.2.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5120</kod>
+		<aciklama>    2.3.  Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5121</kod>
+		<aciklama>      2.3.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5122</kod>
+		<aciklama>      2.3.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5123</kod>
+		<aciklama>      2.3.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5124</kod>
+		<aciklama>      2.3.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5125</kod>
+		<aciklama>      2.3.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5126</kod>
+		<aciklama>      2.3.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5127</kod>
+		<aciklama>      2.3.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5128</kod>
+		<aciklama>  3) Diğer Varlıklara Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>5129</kod>
+		<aciklama>    3.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5130</kod>
+		<aciklama>      3.1.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5131</kod>
+		<aciklama>      3.1.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5132</kod>
+		<aciklama>      3.1.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5133</kod>
+		<aciklama>      3.1.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5134</kod>
+		<aciklama>      3.1.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5135</kod>
+		<aciklama>      3.1.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5136</kod>
+		<aciklama>      3.1.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5137</kod>
+		<aciklama>    3.2.  Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5138</kod>
+		<aciklama>      3.2.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5139</kod>
+		<aciklama>      3.2.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5140</kod>
+		<aciklama>      3.2.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5141</kod>
+		<aciklama>      3.2.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5142</kod>
+		<aciklama>      3.2.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5143</kod>
+		<aciklama>      3.2.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5144</kod>
+		<aciklama>      3.2.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5145</kod>
+		<aciklama>    3.3.  Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>5146</kod>
+		<aciklama>      3.3.1. 7 güne kadar vadeli</aciklama>
+	</data>
+	<data>
+		<kod>5147</kod>
+		<aciklama>      3.3.2. 8 gün ila 30 gün</aciklama>
+	</data>
+	<data>
+		<kod>5148</kod>
+		<aciklama>      3.3.3. 31 gün ila 60 gün</aciklama>
+	</data>
+	<data>
+		<kod>5149</kod>
+		<aciklama>      3.3.4. 61gün ila 90 gün</aciklama>
+	</data>
+	<data>
+		<kod>5150</kod>
+		<aciklama>      3.3.5. 91 gün ila 180 gün</aciklama>
+	</data>
+	<data>
+		<kod>5151</kod>
+		<aciklama>      3.3.6. 181 gün ila 360 gün</aciklama>
+	</data>
+	<data>
+		<kod>5152</kod>
+		<aciklama>      3.3.7. 361 gün ve üzeri vadeli</aciklama>
+	</data>
+</vadeliSozlesmeAciklama>
+<vadeliFizikiSozlesmeAciklama>
+	<data>
+		<kod>6001</kod>
+		<aciklama>A- ORGANİZE PİYASA (BORSA) İŞLEMLERİ</aciklama>
+	</data>
+	<data>
+		<kod>6002</kod>
+		<aciklama>  1) Dövize Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>6003</kod>
+		<aciklama>    1.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6004</kod>
+		<aciklama>    1.2. Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6005</kod>
+		<aciklama>    1.3. Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6006</kod>
+		<aciklama>  2) Altına Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>6007</kod>
+		<aciklama>    2.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6008</kod>
+		<aciklama>    2.2. Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6009</kod>
+		<aciklama>    2.3. Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6010</kod>
+		<aciklama>  3) Diğer Varlıklara Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>6011</kod>
+		<aciklama>    3.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6012</kod>
+		<aciklama>    3.2. Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6013</kod>
+		<aciklama>    3.3. Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6014</kod>
+		<aciklama>B- TEZGAHÜSTÜ PİYASA (BORSA DIŞI) İŞLEMLERİ</aciklama>
+	</data>
+	<data>
+		<kod>6015</kod>
+		<aciklama>  1) Dövize Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>6016</kod>
+		<aciklama>    1.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6017</kod>
+		<aciklama>    1.2. Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6018</kod>
+		<aciklama>    1.3. Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6019</kod>
+		<aciklama>  2) Altına Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>6020</kod>
+		<aciklama>    2.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6021</kod>
+		<aciklama>    2.2. Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6022</kod>
+		<aciklama>    2.3. Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6023</kod>
+		<aciklama>  3) Diğer Varlıklara Dayalı İşlemler</aciklama>
+	</data>
+	<data>
+		<kod>6024</kod>
+		<aciklama>    3.1. Forward/Future Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6025</kod>
+		<aciklama>    3.2. Swap Sözleşmeleri</aciklama>
+	</data>
+	<data>
+		<kod>6026</kod>
+		<aciklama>    3.3. Opsiyon (Varant Dâhil) Sözleşmeleri</aciklama>
+	</data>
+</vadeliFizikiSozlesmeAciklama>
+<dummyLookupData>
+</dummyLookupData>
+</kodlar>

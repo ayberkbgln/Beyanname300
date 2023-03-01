@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+    <faaliyetCinsleri>
+        <faaliyetCinsi>
+            <kod>1</kod>
+            <aciklama>Bileşik Tesisler ile Konaklama Tesisleri İşletmeleri</aciklama>
+        </faaliyetCinsi>
+        <faaliyetCinsi>
+            <kod>2</kod>
+            <aciklama>Yeme-İçme ve Eğlence Tesisleri İşletmeleri</aciklama>
+        </faaliyetCinsi>
+        <faaliyetCinsi>
+            <kod>4</kod>
+            <aciklama>Seyahat Acentaları İşletmeleri</aciklama>
+        </faaliyetCinsi>
+        <faaliyetCinsi>
+            <kod>5</kod>
+            <aciklama>Havayolu İşletmeleri</aciklama>
+        </faaliyetCinsi>
+        <faaliyetCinsi>
+            <kod>6</kod>
+            <aciklama>Havalimanı ve Terminal İşletmeleri</aciklama>
+        </faaliyetCinsi>
+    </faaliyetCinsleri>
+    <indirimliFaaliyetCinsleri>
+        <indirimliFaaliyetCinsi>
+            <kod>1</kod>
+            <aciklama>Kış Turizmi Tesisi İşletmeleri</aciklama>
+        </indirimliFaaliyetCinsi>
+        <indirimliFaaliyetCinsi>
+            <kod>2</kod>
+            <aciklama>Termal Turizm Tesisi İşletmeleri</aciklama>
+        </indirimliFaaliyetCinsi>
+        <indirimliFaaliyetCinsi>
+            <kod>3</kod>
+            <aciklama>Sağlık Turizmi Tesisi İşletmeleri</aciklama>
+        </indirimliFaaliyetCinsi>
+        <indirimliFaaliyetCinsi>
+            <kod>4</kod>
+            <aciklama>Kırsal Turizm Tesisi İşletmeleri</aciklama>
+        </indirimliFaaliyetCinsi>
+        <indirimliFaaliyetCinsi>
+            <kod>5</kod>
+            <aciklama>Nitelikli Spor Turizmi Tesisi İşletmeleri</aciklama>
+        </indirimliFaaliyetCinsi>
+    </indirimliFaaliyetCinsleri>
+</kodlar>

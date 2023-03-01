@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<asgariMatrahlar>
+		<data><yil>2016</yil><asgariMatrah>23500.00</asgariMatrah><oran1>6</oran1><oran2>15</oran2></data>
+		<data><yil>2017</yil><asgariMatrah>24900.00</asgariMatrah><oran1>5</oran1><oran2>15</oran2></data>
+		<data><yil>2018</yil><asgariMatrah>26450.00</asgariMatrah><oran1>4</oran1><oran2>15</oran2></data>
+		<data><yil>2019</yil><asgariMatrah>28100.00</asgariMatrah><oran1>3</oran1><oran2>15</oran2></data>
+		<data><yil>2020</yil><asgariMatrah>31850.00</asgariMatrah><oran1>2</oran1><oran2>15</oran2></data>
+	</asgariMatrahlar>
+</kodlar>

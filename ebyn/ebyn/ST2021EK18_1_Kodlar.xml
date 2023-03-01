@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+    <olcuBirimleri>
+        <olcuBirimi><birim>kg.</birim></olcuBirimi>
+        <olcuBirimi><birim>lt.</birim></olcuBirimi>
+        <olcuBirimi><birim>adet</birim></olcuBirimi>
+        <olcuBirimi><birim>m^3</birim></olcuBirimi>
+        <olcuBirimi><birim>metre</birim></olcuBirimi>
+        <olcuBirimi><birim>düzine</birim></olcuBirimi>
+        <olcuBirimi><birim>vb.</birim></olcuBirimi>
+    </olcuBirimleri>
+    <tabiOlduguVeStokOranlari>
+        <tabiOlduguVeStokOrani><oran>0</oran><stokOran>4</stokOran></tabiOlduguVeStokOrani>
+        <tabiOlduguVeStokOrani><oran>1</oran><stokOran>0.5</stokOran></tabiOlduguVeStokOrani>
+        <tabiOlduguVeStokOrani><oran>8</oran><stokOran>4</stokOran></tabiOlduguVeStokOrani>
+        <tabiOlduguVeStokOrani><oran>18</oran><stokOran>9</stokOran></tabiOlduguVeStokOrani>
+    </tabiOlduguVeStokOranlari>
+    <tabiOlduguVeStokOranlariTb2>
+        <tabiOlduguVeStokOraniTb2><oran>1</oran><stokOran>0.5</stokOran></tabiOlduguVeStokOraniTb2>
+        <tabiOlduguVeStokOraniTb2><oran>8</oran><stokOran>4</stokOran></tabiOlduguVeStokOraniTb2>
+        <tabiOlduguVeStokOraniTb2><oran>18</oran><stokOran>9</stokOran></tabiOlduguVeStokOraniTb2>
+    </tabiOlduguVeStokOranlariTb2>
+
+</kodlar>

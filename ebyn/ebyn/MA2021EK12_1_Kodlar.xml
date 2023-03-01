@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<bentOranlar>
+		<data><bent>0</bent><aciklama>(a/i) alt bendine göre yapılan ödemeler</aciklama><oran>0.25</oran></data>
+		<data><bent>1</bent><aciklama>(a/ii) alt bendine göre yapılan ödemeler</aciklama><oran>0.50</oran></data>
+		<data><bent>2</bent><aciklama>(b/i) alt bendine göre yapılan ödemeler</aciklama><oran>0.50</oran></data>
+		<data><bent>3</bent><aciklama>(b/ii) alt bendine göre yapılan ödemeler</aciklama><oran>1.00</oran></data>
+		<data><bent>4</bent><aciklama>(c/i) alt bendine göre yapılan ödemeler</aciklama><oran>0.50</oran></data>
+		<data><bent>5</bent><aciklama>(c/ii) alt bendine göre yapılan ödemeler</aciklama><oran>1.00</oran></data>
+	</bentOranlar>
+	<asgariMatrahlar>
+		<data><yil>2016</yil><asgariMatrah>47000.00</asgariMatrah><oran>2</oran></data>
+		<data><yil>2017</yil><asgariMatrah>49800.00</asgariMatrah><oran>2</oran></data>
+		<data><yil>2018</yil><asgariMatrah>52900.00</asgariMatrah><oran>2</oran></data>
+		<data><yil>2019</yil><asgariMatrah>56200.00</asgariMatrah><oran>2</oran></data>
+		<data><yil>2020</yil><asgariMatrah>63700.00</asgariMatrah><oran>2</oran></data>
+	</asgariMatrahlar>
+</kodlar>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<beyanname kodVer="KDV1_35" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="KDV1_35.xsd" >
+	<genel>
+		<idari>
+			<vdKodu>034230</vdKodu>
+			<donem>
+				<tip>aylik</tip>
+				<yil>2012</yil>
+				<ay>2</ay>
+			</donem>
+		</idari>
+		<mukellef>
+			<vergiNo>6130766093</vergiNo>
+			<soyadi>MDP TR</soyadi>
+			<adi>TEKNOLOJI A.Ş.</adi>
+			<ticSicilNo>123-123-123</ticSicilNo>
+			<eposta>enver.donertas@mdpgroup.com</eposta>
+			<alanKodu>212</alanKodu>
+			<telNo>2151743</telNo>
+		</mukellef>
+		<hsv sifat="kendisi">
+			<vergiNo>6130766093</vergiNo>
+			<soyadi>MDP TR</soyadi>
+			<adi>TEKNOLOJI A.Ş.</adi>
+			<ticSicilNo>123-123-123</ticSicilNo>
+			<eposta>enver.donertas@mdpgroup.com</eposta>
+			<alanKodu>212</alanKodu>
+			<telNo>2151743</telNo>
+		</hsv>
+		<duzenleyen>
+			<vergiNo>6130766093</vergiNo>
+			<soyadi>MDP TR</soyadi>
+			<adi>TEKNOLOJİ A.Ş.</adi>
+			<ticSicilNo>123-123-123</ticSicilNo>
+			<eposta>enver.donertas@mdpgroup.com</eposta>
+			<alanKodu>212</alanKodu>
+			<telNo>2151743</telNo>
+		</duzenleyen>
+	</genel>
+	<ozel>
+		<tevkifatUygulanmayanlar>
+			<tevkifatUygulanmayan>
+				<matrah>525.00</matrah>
+				<oran>1</oran>
+				<vergi>5.25</vergi>
+			</tevkifatUygulanmayan>
+		</tevkifatUygulanmayanlar>
+		<vergiToplami>5.25</vergiToplami>
+		<toplamMatrah>525.00</toplamMatrah>
+		<hesaplananKDV>5.25</hesaplananKDV>
+		<ilaveEdilecekKDV>0.00</ilaveEdilecekKDV>
+		<toplamKDV>5.25</toplamKDV>
+		<ihracGerceklesmeyenTecilEdilemeyenKDV>0.00</ihracGerceklesmeyenTecilEdilemeyenKDV>
+		<kdvsizTeminEdilenlerIcinOdenmeyenKDV>0</kdvsizTeminEdilenlerIcinOdenmeyenKDV>
+		<ihracatDonemindeIadeEdilecekKDV>0.00</ihracatDonemindeIadeEdilecekKDV>
+		<yuklenilenKDV>0</yuklenilenKDV>
+		<ihracVergiFark>0</ihracVergiFark>
+		<tecilEdilecekKDV>0.00</tecilEdilecekKDV>
+		<odenmesiGerekenKDV>5.25</odenmesiGerekenKDV>
+		<iadeEdilmesiGerekenKDV>0.00</iadeEdilmesiGerekenKDV>
+		<sonrakiDonemeDevredenKDV>0</sonrakiDonemeDevredenKDV>
+		<matrahaDahilOlmayanBedel>0.00</matrahaDahilOlmayanBedel>
+		<teslimVeHizmetleriTeskilEdenBedelAylik>525.00</teslimVeHizmetleriTeskilEdenBedelAylik>
+		<teslimVeHizmetleriTeskilEdenBedelKumulatif>6000</teslimVeHizmetleriTeskilEdenBedelKumulatif>
+		<krediKarti>0.00</krediKarti>
+	</ozel>
+</beyanname>

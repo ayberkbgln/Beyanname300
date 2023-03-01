@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<artirimOranlari>
+		<data><yil>2016</yil><oran>35</oran></data>
+		<data><yil>2017</yil><oran>30</oran></data>
+		<data><yil>2018</yil><oran>25</oran></data>
+		<data><yil>2019</yil><oran>20</oran></data>
+		<data><yil>2020</yil><oran>15</oran></data>
+	</artirimOranlari>
+	<asgariMatrahlar>
+		<data><yil>2016</yil><asgariMatrah>47000.00</asgariMatrah></data>
+		<data><yil>2017</yil><asgariMatrah>49800.00</asgariMatrah></data>
+		<data><yil>2018</yil><asgariMatrah>52900.00</asgariMatrah></data>
+		<data><yil>2019</yil><asgariMatrah>56200.00</asgariMatrah></data>
+		<data><yil>2020</yil><asgariMatrah>63750.00</asgariMatrah></data>
+	</asgariMatrahlar>
+</kodlar>

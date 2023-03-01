@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref:	GMSIIB_TUR 			gayrimenkulTurleri/gayrimenkulTuru/kod
+	Ref:	IND_TUR				indirimler/indirim/kod
+-->
+	<kistDonemVerNedenleri> 
+		<kistDonemVerNeden>
+			<kod>10</kod>
+			<aciklama>Vefat (Ölüm)</aciklama>
+		</kistDonemVerNeden>
+	</kistDonemVerNedenleri>
+	<gayrimenkulTurleri>
+		<gayrimenkulTuru>
+	     		<kod>1</kod>
+	         	<aciklama>Mesken</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>2</kod>
+	         	<aciklama>İşyeri</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>3</kod>
+	         	<aciklama>Diğer (Arazi dahil)</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>4</kod>
+	         	<aciklama>Hak</aciklama>
+		</gayrimenkulTuru>
+	</gayrimenkulTurleri>
+	<ucretKaynaklari>
+		<ucretKaynak>
+			<kod>101</kod>
+			<aciklama>Ücret (İşverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatler dolayısıyla elde edilen ücret)</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>102</kod>
+			<aciklama>23 üncü maddenin 11 numaralı bendine göre istisna dışında kalan emeklilik, maluliyet, dul ve yetim aylıkları dolayısıyla elde edilen ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>103</kod>
+			<aciklama>Evvelce yapılmış ve gelecekte yapılacak hizmetler karşılığında elde edilen ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>104</kod>
+			<aciklama>TBMM, İl Genel Meclisi ve Belediye Meclisi üyeliği ile özel kanunlarına veya idari kararlara göre kurulan daimi veya geçici bütün komisyon üyeliğinden elde edilen ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>105</kod>
+			<aciklama>Tevkifata tabi olmayan ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>106</kod>
+			<aciklama>Yönetim ve denetim kurulu başkanlığı ve üyeliği ile tasfiye memurluğundan elde edilen ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>107</kod>
+			<aciklama>Bilirkişilik, resmi arabuluculuk, eksperlik, spor hakemliği ve her türlü yarışma jürisi üyeliğinden elde edilen ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>108</kod>
+			<aciklama>Yukarıda belirtilenler dışında elde edilen ücretler</aciklama>
+		</ucretKaynak>
+	</ucretKaynaklari>
+	<dkiKazancTurleri>
+		<dkiKazanc>
+			<kod>101</kod>
+			<aciklama>M.80.1 - İvazsız olarak iktisap edilenler ile tam mükellef kurumlara ait olan ve iki yıldan fazla süreyle elde tutulan hisse senetleri hariç, menkul kıymetlerin veya diğer sermaye piyasası araçlarının elden çıkarılmasından sağlanan kazançlar.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>102</kod>
+			<aciklama>M.80.2 - 70 inci maddenin birinci fıkrasının (5) numaralı bendinde yazılı hakların (ihtira beratları hariç) elden</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>103</kod>
+			<aciklama>M.80.3 - Telif haklarının ve ihtira beratlarının müellifleri, mucitleri ve bunların kanunî mirasçıları dışında kalan kimseler tarafından elden çıkarılmasından doğan kazançlar.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>	
+			<kod>104</kod>
+			<aciklama>M.80.4 -  Ortaklık haklarının veya hisselerinin elden çıkarılmasından doğan kazançlar.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>105</kod>
+			<aciklama>M.80.5 - Faaliyeti durdurulan bir işletmenin kısmen veya tamamen elden çıkarılmasından doğan kazançlar.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>106</kod>
+			<aciklama>M.80.6 - İktisap şekli ne olursa olsun (ivazsız olarak iktisap edilenler hariç) 70 inci maddenin birinci fıkrasının (1), (2), (4) ve (7) numaralı bentlerinde yazılı mal (gerçek usulde vergiye tâbi çiftçilerin ziraî istihsalde kullandıkları gayrimenkuller</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>107</kod>
+			<aciklama>M.82.1 - Arızî olarak ticarî muamelelerin icrasından veya bu nitelikteki muamelelere tavassuttan elde edilen kazançlar.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>108</kod>
+			<aciklama>M.82.2.1- Ticarî veya ziraî bir işletmenin faaliyeti ile serbest meslek faaliyetinin durdurulması veya terk edilmesi karşılığında elde edilen hâsılat.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>109</kod>
+			<aciklama>M.82.2.2 - Henüz başlamamış olan ticarî, ziraî veya meslekî bir faaliyete hiç girişilmemesi ile ihale, artırma ve eksiltmelere iştirak edilmemesi karşılığında elde edilen hasılat.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>110</kod>
+			<aciklama>M.82.3 - Gayrimenkullerin tahliyesi veya kiracılık hakkının devri karşılığında alınan tazminatlar ile peştemallıklar (kiracıya ait tesisat ve malların tahliye ve devri sırasında kiralayan veya yeni kiracıya devrinde doğan kazançlar dahil).</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>111</kod>
+			<aciklama>M.82.4 -  Arızî olarak yapılan serbest meslek faaliyetleri dolayısıyla tahsil edilen hâsılat.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>112</kod>
+			<aciklama>M.82.5 - Gerçek usulde vergiye tâbi mükelleflerin terk ettikleri işleri ile ilgili olarak sonradan elde ettikleri kazançlar (zarar yazılan değersiz alacaklarla, karşılık ayrılan şüpheli alacakların tahsili dahil).</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>113</kod>
+			<aciklama>M.82.6 - Dar mükellefiyete tâbi olanların 45 inci maddede yazılı işleri arızî olarak yapmalarından elde ettikleri kazançlar.</aciklama>
+		</dkiKazanc>
+	</dkiKazancTurleri>
+	<dkiGayrimenkulTurleri>
+		<dkiGayrimenkulTur>
+			<kod>101</kod>
+			<aciklama>M.70.1. Arazi</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>102</kod>
+			<aciklama>M.70.1. Bina</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>103</kod>
+			<aciklama>M.70.2. Voli mahalleri ve dalyanlar</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>104</kod>
+			<aciklama>M.70.4. Gayrimenkul olarak tescil edilen haklar</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>105</kod>
+			<aciklama>M.70.7. Gemi ve gemi payları</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>106</kod>
+			<aciklama>M.70.7. Motorlu tahmil ve tahliye vasıtaları</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>107</kod>
+			<aciklama>M.70.1. Diğer gruplara girmeyen</aciklama>
+		</dkiGayrimenkulTur>
+	</dkiGayrimenkulTurleri>
+	<msiIratTurleri>
+		<msiIratTur>
+			<kod>602</kod>
+			<aciklama>602. Devlet tahvili ve Hazine bonosu faizleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>603</kod>
+			<aciklama>603. Diğer her türlü tahvil ve bonosu faizleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>604</kod>
+			<aciklama>604. Toplu Konut İdaresi ve Özelleştirme İdaresince çıkarılan menkul kıymetlerden sağlanan faiz gelirleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>606</kod>
+			<aciklama>606. Hisse senedi kar payları (temettü gelirleri)</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>607</kod>
+			<aciklama>607. İştirak hisselerinden doğan kazançlar</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>608</kod>
+			<aciklama>608. Kurumların idare meclisi başkan ve üyelerine verilen kar payları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>610</kod>
+			<aciklama>610. Menkul kıymetler yatırım fonlarının katılma belgelerine ödenen kar payları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>611</kod>
+			<aciklama>611. Menkul kıymetler yatırım ortaklıklarından sağlanan kar payları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>612</kod>
+			<aciklama>612. Gayrimenkul yatırım fon ve ortaklıklarından sağlanan kar payları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>613</kod>
+			<aciklama>613. Risk sermayesi yatırım fon ve ortaklıklarından sağlanan kar payları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>615</kod>
+			<aciklama>615. Kıyı bankacılığından (off-shore bankacılık) elde edilen faiz gelirleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>616</kod>
+			<aciklama>616. Eurobond faiz gelirleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>617</kod>
+			<aciklama>617. Alacak faizleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>618</kod>
+			<aciklama>618. Hisse senetleri ve tahvillerin vadesi gelmemiş kuponlarının satışından elde edilen bedeller</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>619</kod>
+			<aciklama>619. İştirak hisselerinin sahibi adına henüz tahakkuk etmemiş kar paylarının devir ve temliki karşılığında alınan para ve ayınlar</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>620</kod>
+			<aciklama>620. Her çeşit senetlerin ıskonto edilmesi karşılığında alınan ıskonto bedelleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>622</kod>
+			<aciklama>622. Yurt dışından elde edilen diğer menkul sermaye iratları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>623</kod>
+			<aciklama>623. Diğer (Yukarıda sayılanların dışında kalan menkul sermaye iratları)</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>624</kod>
+			<aciklama>624. Yurtdışında ihraç edilen her türlü tahvil ve bono faizleri (Kira sertifikaları dahil - Eurobond faizleri hariç)</aciklama>
+		</msiIratTur>
+	</msiIratTurleri>
+	<indirimler>
+		<indirim>
+	     		<kod>101</kod>
+	         	<aciklama>Mahsup Edilecek Geçmiş Yıl Zararları Toplamı</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>103</kod>
+	         	<aciklama>Şahıs Sigorta Primleri</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>105</kod>
+	         	<aciklama>Eğitim ve Sağlık Harcamaları</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>107</kod>
+	         	<aciklama>Bağış Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>108</kod>
+	         	<aciklama>Eğitim ve Sağlık Tesisleri ile Dini Tesislere İlişkin Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>109</kod>
+	         	<aciklama>Gıda Bankacılığı Kapsamındaki Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>110</kod>
+	         	<aciklama>Kültür ve Turizm Amaçlı Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>111</kod>
+	         	<aciklama>Sponsorluk Harcamaları</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>112</kod>
+	         	<aciklama>Başbakanlıkça veya Bakanlar Kurulunca Başlatılan Yardım Kampanyalarına Yapılan Bağışlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>113</kod>
+	         	<aciklama>Türkiye Kızılay Derneği ile Türkiye Yeşilay Cemiyetine Yapılan Nakdi Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>114</kod>
+	         	<aciklama>Bireysel Katılım Yatırımcısı İndirimi</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>116</kod>
+	         	<aciklama>Diğer İndirimler</aciklama>
+		</indirim>
+				<indirim>
+	     		<kod>117</kod>
+	         	<aciklama>Kapadokya Alanı Başkanlığına Yapılan Bağış ve Yardımlar İle Sponsorluk Harcamaları</aciklama>
+		</indirim>
+	</indirimler>
+	<gercekGiderler>
+		<gercekGider>
+	     		<kod>100</kod>
+	         	<aciklama>Kiraya veren tarafından ödenen aydınlatma, ısıtma, su ve asansör giderleri (74-1)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>101</kod>
+	         	<aciklama>Kiraya Verilen Malların İdaresi İçin Yapılan İdare Giderleri (74-2)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>102</kod>
+	         	<aciklama>Kiraya Verilen Mal ve Haklara Müteallik Sigorta Giderleri (74-3)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>103</kod>
+	         	<aciklama>Kiraya Verilen Mal ve Haklara İlişkin Borç Faizleri (74-4)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>104</kod>
+	         	<aciklama>Konut Olarak Kiraya Verilen Bir Adet Gayrimenkulün İktisap Bedelinin % 5'i (74-4)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>105</kod>
+	         	<aciklama>Kiraya verilen mal ve haklar için ödenen vergi, resim, harç ve şerefiyeler vb.(74-5)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>106</kod>
+	         	<aciklama>Kiraya Verilen Mal ve Haklar İçin Ayrılan Amortismanlar (74-6)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>107</kod>
+	         	<aciklama>Kiraya Verenin Yaptığı Onarım Giderleri (74-7)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>108</kod>
+	         	<aciklama>Kiraya Verilen Mal ve Haklara Ait Bakım ve İdame Giderleri (74-8)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>109</kod>
+	         	<aciklama>Kiraladıkları Mal ve Hakları Kiraya Verenlerin Ödedikleri Kiralar (74-9)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>110</kod>
+	         	<aciklama>Kiraladıkları Mal ve Hakları Kiraya Verenlerin Diğer Gerçek Giderleri (74-9)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>111</kod>
+	         	<aciklama>Sahibi Bulundukları Konutları Kiraya Verenlerin Oturdukları Konut Kira Bedeli (74-10)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>112</kod>
+	         	<aciklama>Mukavelenameye Kanuna veya İlama İstinaden Ödenen Zarar ve Tazminatlar (74-11)</aciklama>
+		</gercekGider>
+	</gercekGiderler>
+	<kesintiTurleri>
+		<kesintiTur>
+	     		<kod>1</kod>
+	         	<aciklama>GMSİ</aciklama>
+		</kesintiTur>
+		<kesintiTur>
+	     		<kod>2</kod>
+	         	<aciklama>ÜCRET</aciklama>
+		</kesintiTur>
+		<kesintiTur>
+	     		<kod>3</kod>
+	         	<aciklama>MSİ</aciklama>
+		</kesintiTur>
+		<kesintiTur>
+	     		<kod>4</kod>
+	         	<aciklama>DKİ</aciklama>
+		</kesintiTur>
+	</kesintiTurleri>
+	<konutTurleri>
+		<konutTuru>
+			<kod>100</kod>
+			<aciklama>ÖZEL MÜLK</aciklama>
+		</konutTuru>
+		<konutTuru>
+			<kod>101</kod>
+			<aciklama>KAMU LOJMANI</aciklama>
+		</konutTuru>
+		<konutTuru>
+			<kod>102</kod>
+			<aciklama>ÜNİVERSİTE LOJMANI</aciklama>
+		</konutTuru>
+		<konutTuru>
+			<kod>103</kod>
+			<aciklama>BELEDİYE LOJMANI</aciklama>
+		</konutTuru>
+		<konutTuru>
+			<kod>104</kod>
+			<aciklama>İL ÖZEL İDARESİ LOJMANI</aciklama>
+		</konutTuru>
+		<konutTuru>
+			<kod>105</kod>
+			<aciklama>DİĞER LOJMAN</aciklama>
+		</konutTuru>	
+	</konutTurleri>
+	<egitimSaglikIndirimTurleri>
+		<egitimSaglikIndirimTuru>
+			<kod>1</kod>
+			<aciklama>Eğitim</aciklama>
+		</egitimSaglikIndirimTuru>
+		<egitimSaglikIndirimTuru>
+			<kod>2</kod>
+			<aciklama>Sağlık</aciklama>
+		</egitimSaglikIndirimTuru>
+	</egitimSaglikIndirimTurleri>
+	<egitimSaglikBelgeTurleri>
+		<egitimSaglikBelgeTuru>
+			<kod>1</kod>
+			<aciklama>Fatura</aciklama>
+		</egitimSaglikBelgeTuru>
+		<egitimSaglikBelgeTuru>
+			<kod>2</kod>
+			<aciklama>e-Fatura</aciklama>
+		</egitimSaglikBelgeTuru>
+		<egitimSaglikBelgeTuru>
+			<kod>4</kod>
+			<aciklama>e-Arşiv</aciklama>
+		</egitimSaglikBelgeTuru>
+		<egitimSaglikBelgeTuru>
+			<kod>3</kod>
+			<aciklama>Diğer</aciklama>
+		</egitimSaglikBelgeTuru>
+	</egitimSaglikBelgeTurleri>
+	<yabanciUlkeler>
+		<yabanciUlke>
+			<kod>013</kod>
+			<aciklama>ABD MINOR OUTLYING ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>457</kod>
+			<aciklama>ABD VİRJİN ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>660</kod>
+			<aciklama>AFGANİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>004</kod>
+			<aciklama>AlMANYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>400</kod>
+			<aciklama>AMERİKA BİRLEŞİK DEV</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>830</kod>
+			<aciklama>AMERİKA SAMOASI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>808</kod>
+			<aciklama>AMERİKAN OKYANUSYASI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>043</kod>
+			<aciklama>ANDORRA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>330</kod>
+			<aciklama>ANGOLA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>446</kod>
+			<aciklama>ANGUILLA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>891</kod>
+			<aciklama>ANTARTİKA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>459</kod>
+			<aciklama>ANTIGUA VE BERMUDA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>528</kod>
+			<aciklama>ARJANTİN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>070</kod>
+			<aciklama>ARNAVUTLUK</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>474</kod>
+			<aciklama>ARUBA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>800</kod>
+			<aciklama>AVUSTRALYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>802</kod>
+			<aciklama>AVUSTRALYA OKYANUSU</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>038</kod>
+			<aciklama>AVUSTURYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>078</kod>
+			<aciklama>AZERBEYCAN-NAHÇIVAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>453</kod>
+			<aciklama>BAHAMA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>640</kod>
+			<aciklama>BAHREYN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>666</kod>
+			<aciklama>BANGLADEŞ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>469</kod>
+			<aciklama>BARBADOS</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>819</kod>
+			<aciklama>BATI SAMAO</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>002</kod>
+			<aciklama>BELÇİKA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>421</kod>
+			<aciklama>BELİZE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>284</kod>
+			<aciklama>BENİN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>413</kod>
+			<aciklama>BERMUDA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>073</kod>
+			<aciklama>BEYAZ RUSYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>675</kod>
+			<aciklama>BHUTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>958</kod>
+			<aciklama>BİLİNEMEYEN ÜLKE VE TOPRAKLAR</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>647</kod>
+			<aciklama>BİRLEŞİK ARAP EMİRLİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>006</kod>
+			<aciklama>BİRLEŞİK KRALLIK (İngiltere, Galler, İskoçya, Kuzey İrlanda)</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>901</kod>
+			<aciklama>BİSMARK ARCHİPELAGO</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>516</kod>
+			<aciklama>BOLİVYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>093</kod>
+			<aciklama>BOSNA-HERSEK</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>391</kod>
+			<aciklama>BOSTVANA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>892</kod>
+			<aciklama>BOUVET ADASI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>508</kod>
+			<aciklama>BREZİLYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>703</kod>
+			<aciklama>BRUNEİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>068</kod>
+			<aciklama>BULGARİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>236</kod>
+			<aciklama>BURKİNA FASO</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>676</kod>
+			<aciklama>BURMA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>328</kod>
+			<aciklama>BURUNDİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>247</kod>
+			<aciklama>CAPE VERDE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>463</kod>
+			<aciklama>CAYMAN ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>044</kod>
+			<aciklama>CEBELİ TARIK</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>022</kod>
+			<aciklama>CEUTA VE MELİLLA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>208</kod>
+			<aciklama>CEZAYİR</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>834</kod>
+			<aciklama>CHRISTMAS ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>338</kod>
+			<aciklama>CİBUTİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>182</kod>
+			<aciklama>COOK ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>244</kod>
+			<aciklama>ÇAD</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>084</kod>
+			<aciklama>ÇEÇEN CUMHURİYETİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>062</kod>
+			<aciklama>ÇEK CUMHURİYETİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>720</kod>
+			<aciklama>ÇİN HALK CUMHURİYETİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>085</kod>
+			<aciklama>DAĞISTAN CUMHURİYETİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>008</kod>
+			<aciklama>DANİMARKA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>626</kod>
+			<aciklama>DOĞU TİMOR</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>456</kod>
+			<aciklama>DOMİNİK CUMHURİYETİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>460</kod>
+			<aciklama>DOMİNİKA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>648</kod>
+			<aciklama>DUBAİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>500</kod>
+			<aciklama>EKVATOR</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>310</kod>
+			<aciklama>EKVATOR GİNESİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>428</kod>
+			<aciklama>EL SALVADOR</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>700</kod>
+			<aciklama>ENDONEZYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>336</kod>
+			<aciklama>ERİTRE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>077</kod>
+			<aciklama>ERMENİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>053</kod>
+			<aciklama>ESTONYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>334</kod>
+			<aciklama>ETİYOPYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>529</kod>
+			<aciklama>FALKLAND ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>025</kod>
+			<aciklama>FAROE ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>204</kod>
+			<aciklama>FAS</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>815</kod>
+			<aciklama>FİJİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>272</kod>
+			<aciklama>FİLDİŞİ SAHİLİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>708</kod>
+			<aciklama>FİLİPİNLER</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>032</kod>
+			<aciklama>FİNLANDİYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>001</kod>
+			<aciklama>FRANSA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>496</kod>
+			<aciklama>FRANSIZ GUYANASI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>822</kod>
+			<aciklama>FRANSIZ POLİNEZYASI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>314</kod>
+			<aciklama>GABON</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>252</kod>
+			<aciklama>GAMBİYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>276</kod>
+			<aciklama>GANA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>260</kod>
+			<aciklama>GİNE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>257</kod>
+			<aciklama>GİNE-BİSSAU</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>473</kod>
+			<aciklama>GRENADA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>406</kod>
+			<aciklama>GRÖNLAND</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>458</kod>
+			<aciklama>GUADELUP</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>831</kod>
+			<aciklama>GUAM</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>416</kod>
+			<aciklama>GUATEMALA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>488</kod>
+			<aciklama>GUYANA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>390</kod>
+			<aciklama>GÜNEY AFRİKA CUMHURİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>029</kod>
+			<aciklama>GÜNEY FRANSIZ TOPRAKLARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>893</kod>
+			<aciklama>GÜNEY GEORGIA VE GÜNEY SANDWICH ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>728</kod>
+			<aciklama>GÜNEY KORE CUMHURİYE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>656</kod>
+			<aciklama>GÜNEY YEMEN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>076</kod>
+			<aciklama>GÜRCİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>452</kod>
+			<aciklama>HAİTİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>835</kod>
+			<aciklama>HEARD ADALARI VE MC DONALD ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>092</kod>
+			<aciklama>HIRVATİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>664</kod>
+			<aciklama>HİNDİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>003</kod>
+			<aciklama>HOLLANDA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>478</kod>
+			<aciklama>HOLLANDA ANTİLLERİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>424</kod>
+			<aciklama>HONDURAS</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>740</kod>
+			<aciklama>HONG KONG</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>612</kod>
+			<aciklama>IRAK</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>357</kod>
+			<aciklama>İNGİLİZ HİNT OKY.TOP</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>461</kod>
+			<aciklama>İNGİLİZ VİRJİN ADALA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>006</kod>
+			<aciklama>İNGİLTERE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>616</kod>
+			<aciklama>İRAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>007</kod>
+			<aciklama>İRLANDA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>011</kod>
+			<aciklama>İSPANYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>624</kod>
+			<aciklama>İSRAİL</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>030</kod>
+			<aciklama>İSVEÇ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>036</kod>
+			<aciklama>İSVİÇRE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>625</kod>
+			<aciklama>İŞGAL ALTINDAKİ FİLİSTİN TOPRAĞI(GAZZE)</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>005</kod>
+			<aciklama>İTALYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>024</kod>
+			<aciklama>İZLANDA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>464</kod>
+			<aciklama>JAMAİKA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>732</kod>
+			<aciklama>JAPONYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>696</kod>
+			<aciklama>KAMBOÇYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>302</kod>
+			<aciklama>KAMERUN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>404</kod>
+			<aciklama>KANADA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>021</kod>
+			<aciklama>KANARYA ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>097</kod>
+			<aciklama>KARADAĞ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>644</kod>
+			<aciklama>KATAR</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>079</kod>
+			<aciklama>KAZAKİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>346</kod>
+			<aciklama>KENYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>600</kod>
+			<aciklama>KIBRIS RUM KESİMİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>083</kod>
+			<aciklama>KIRGIZİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>812</kod>
+			<aciklama>KİRİBATİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>833</kod>
+			<aciklama>KOKOS ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>480</kod>
+			<aciklama>KOLOMBİYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>375</kod>
+			<aciklama>KOMORO ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>318</kod>
+			<aciklama>KONGO</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>095</kod>
+			<aciklama>KOSOVA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>436</kod>
+			<aciklama>KOSTA RİKA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>322</kod>
+			<aciklama>Kongo (Demokratik Cum.) Eski Zaire</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>890</kod>
+			<aciklama>KUTUP BÖLGELERİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>636</kod>
+			<aciklama>KUVEYT</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>601</kod>
+			<aciklama>KUZEY KIBRIS TÜRK CU</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>724</kod>
+			<aciklama>KUZEY KORE DEMOKRATİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>820</kod>
+			<aciklama>KUZEY MARİANA ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>652</kod>
+			<aciklama>KUZEY YEMEN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>448</kod>
+			<aciklama>KÜBA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>684</kod>
+			<aciklama>LAOS</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>395</kod>
+			<aciklama>LESOTHO</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>054</kod>
+			<aciklama>LETONYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>438</kod>
+			<aciklama>LIESHTENSTEIN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>268</kod>
+			<aciklama>LİBERYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>216</kod>
+			<aciklama>LİBYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>055</kod>
+			<aciklama>LİTVANYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>604</kod>
+			<aciklama>LÜBNAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>012</kod>
+			<aciklama>LÜKSEMBURG</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>064</kod>
+			<aciklama>MACARİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>370</kod>
+			<aciklama>MADAGASKAR</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>743</kod>
+			<aciklama>MAKAO</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>096</kod>
+			<aciklama>MAKEDONYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>386</kod>
+			<aciklama>MALAVİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>667</kod>
+			<aciklama>MALDİV ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>701</kod>
+			<aciklama>MALEZYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>232</kod>
+			<aciklama>MALİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>046</kod>
+			<aciklama>MALTA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>824</kod>
+			<aciklama>MARSHALL ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>462</kod>
+			<aciklama>MARTİNİK</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>373</kod>
+			<aciklama>MAURİTİUS</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>377</kod>
+			<aciklama>MAYOTTE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>412</kod>
+			<aciklama>MEKSİKA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>220</kod>
+			<aciklama>MISIR</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>823</kod>
+			<aciklama>MİKRONEZYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>716</kod>
+			<aciklama>MOĞOLİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>074</kod>
+			<aciklama>MOLDAVYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>493</kod>
+			<aciklama>MONACO</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>470</kod>
+			<aciklama>MONTSERRAT</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>228</kod>
+			<aciklama>MORİTANYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>366</kod>
+			<aciklama>MOZAMBİK</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>104</kod>
+			<aciklama>MYANMAR</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>389</kod>
+			<aciklama>NAMİBYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>803</kod>
+			<aciklama>NAURU</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>672</kod>
+			<aciklama>NEPAL</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>240</kod>
+			<aciklama>NİJER</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>288</kod>
+			<aciklama>NİJERYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>432</kod>
+			<aciklama>NİKARAGUA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>838</kod>
+			<aciklama>NİUE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>836</kod>
+			<aciklama>NORFOLK ADASI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>028</kod>
+			<aciklama>NORVEÇ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>306</kod>
+			<aciklama>ORTA AFRİKA CUMHURİYETİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>081</kod>
+			<aciklama>ÖZBEKİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>662</kod>
+			<aciklama>PAKİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>825</kod>
+			<aciklama>PALAU</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>442</kod>
+			<aciklama>PANAMA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>801</kod>
+			<aciklama>PAPUA YENİ GİNE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>520</kod>
+			<aciklama>PARAGUAY</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>504</kod>
+			<aciklama>PERU</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>813</kod>
+			<aciklama>PİTCAİRN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>060</kod>
+			<aciklama>POLONYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>010</kod>
+			<aciklama>PORTEKİZ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>372</kod>
+			<aciklama>REUNİON</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>066</kod>
+			<aciklama>ROMANYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>324</kod>
+			<aciklama>RUANDA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>075</kod>
+			<aciklama>RUSYA FEDERASYONU</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>674</kod>
+			<aciklama>SAN MARİNO</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>311</kod>
+			<aciklama>SAO TOME AND PRINCIP</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>248</kod>
+			<aciklama>SENEGAL</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>021</kod>
+			<aciklama>SEPTE(Ceuta)</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>960</kod>
+			<aciklama>SERBEST BÖLGE (BA-BS'de Kullanılan)</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>355</kod>
+			<aciklama>SEYŞEL ADALARI VE BA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>264</kod>
+			<aciklama>SIERRA LEONE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>098</kod>
+			<aciklama>SIRBİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>706</kod>
+			<aciklama>SİNGAPUR</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>063</kod>
+			<aciklama>SLOVAKYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>091</kod>
+			<aciklama>SLOVENYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>806</kod>
+			<aciklama>SOLOMON ADALARI</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>342</kod>
+			<aciklama>SOMALİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>669</kod>
+			<aciklama>SRİ LANKA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>467</kod>
+			<aciklama>ST VİNCENT VE GRENADİNLER</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>329</kod>
+			<aciklama>ST. HELENA VE BAĞLAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>449</kod>
+			<aciklama>ST. KİTTS ve NEVİS</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>465</kod>
+			<aciklama>ST. LUCİA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>408</kod>
+			<aciklama>ST. PİERRE VE MİQUEL</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>224</kod>
+			<aciklama>SUDAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>492</kod>
+			<aciklama>SURİNAM</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>608</kod>
+			<aciklama>SURİYE</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>632</kod>
+			<aciklama>SUUDİ ARABİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>393</kod>
+			<aciklama>SVAZİLAND</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>512</kod>
+			<aciklama>ŞİLİ</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>082</kod>
+			<aciklama>TACİKİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>086</kod>
+			<aciklama>TATARİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>680</kod>
+			<aciklama>TAYLAND</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>736</kod>
+			<aciklama>TAYVAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>352</kod>
+			<aciklama>Tanzanya (Birleşik Cum.)</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>280</kod>
+			<aciklama>TOGO</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>839</kod>
+			<aciklama>TOKELAU</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>817</kod>
+			<aciklama>TONGA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>472</kod>
+			<aciklama>TRİNİDAD VE TOBAGO</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>212</kod>
+			<aciklama>TUNUS</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>454</kod>
+			<aciklama>TURKS VE CAİCOS ADAS</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>807</kod>
+			<aciklama>TUVALU</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>080</kod>
+			<aciklama>TÜRKMENİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>350</kod>
+			<aciklama>UGANDA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>072</kod>
+			<aciklama>UKRAYNA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>649</kod>
+			<aciklama>UMMAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>524</kod>
+			<aciklama>URUGUAY</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>628</kod>
+			<aciklama>ÜRDÜN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>816</kod>
+			<aciklama>VANUATU</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>045</kod>
+			<aciklama>VATİKAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>484</kod>
+			<aciklama>VENEZUELLA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>690</kod>
+			<aciklama>VİETNAM</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>811</kod>
+			<aciklama>WALLİS VE FUTUNA ADA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>087</kod>
+			<aciklama>YAKUTİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>653</kod>
+			<aciklama>YEMEN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>809</kod>
+			<aciklama>YENİ KALODENYA VE BA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>804</kod>
+			<aciklama>YENİ ZELANDA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>814</kod>
+			<aciklama>YENİ ZELANDA OKYANUS</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>048</kod>
+			<aciklama>YUGOSLAVYA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>094</kod>
+			<aciklama>YUGOSLAVYA(SIRBİSTAN VE KARADAĞ)</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>009</kod>
+			<aciklama>YUNANİSTAN</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>378</kod>
+			<aciklama>ZAMBİA</aciklama>
+		</yabanciUlke>
+		<yabanciUlke>
+			<kod>382</kod>
+			<aciklama>ZİMBABVE</aciklama>
+		</yabanciUlke>
+	</yabanciUlkeler>
+	<bankalar>
+		<banka>
+			<kod>00001</kod>
+			<aciklama>AKBANK T.A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00002</kod>
+			<aciklama>ALTERNATİFBANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00003</kod>
+			<aciklama>ANADOLUBANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00004</kod>
+			<aciklama>ARAP TÜRK BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00005</kod>
+			<aciklama>BANK MELLAT</aciklama>
+		</banka>
+		<banka>
+			<kod>00006</kod>
+			<aciklama>BANK OF CHINA TURKEY A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00007</kod>
+			<aciklama>BURGAN BANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00008</kod>
+			<aciklama>CITIBANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00009</kod>
+			<aciklama>DENİZBANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00010</kod>
+			<aciklama>DEUTSCHE BANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00011</kod>
+			<aciklama>FİBABANKA A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00012</kod>
+			<aciklama>HABİB BANK LİMİTED</aciklama>
+		</banka>
+		<banka>
+			<kod>00013</kod>
+			<aciklama>HSBC BANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00014</kod>
+			<aciklama>ICBC TURKEY BANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00015</kod>
+			<aciklama>ING BANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00016</kod>
+			<aciklama>INTESA SANPAOLO S.P.A.</aciklama>
+		</banka>
+		<banka>
+			<kod>00017</kod>
+			<aciklama>JP MORGAN CHASE BANK NATIONAL ASSOCIATION</aciklama>
+		</banka>
+		<banka>
+			<kod>00018</kod>
+			<aciklama>MUFG BANK TURKEY A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00019</kod>
+			<aciklama>ODEA BANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00020</kod>
+			<aciklama>QNB FİNANSBANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00021</kod>
+			<aciklama>RABOBANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00022</kod>
+			<aciklama>SOCIETE GENERALE S.A.</aciklama>
+		</banka>
+		<banka>
+			<kod>00023</kod>
+			<aciklama>ŞEKERBANK T.A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00024</kod>
+			<aciklama>T.C. ZİRAAT BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00025</kod>
+			<aciklama>TURKISH BANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00026</kod>
+			<aciklama>TURKLAND BANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00027</kod>
+			<aciklama>TÜRK EKONOMİ BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00028</kod>
+			<aciklama>TÜRKİYE GARANTİ BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00029</kod>
+			<aciklama>TÜRKİYE HALK BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00030</kod>
+			<aciklama>TÜRKİYE İŞ BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00031</kod>
+			<aciklama>TÜRKİYE VAKIFLAR BANKASI T.A.O.</aciklama>
+		</banka>
+		<banka>
+			<kod>00032</kod>
+			<aciklama>YAPI VE KREDİ BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00033</kod>
+			<aciklama>AKTİF YATIRIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00034</kod>
+			<aciklama>BANKPOZİTİF KREDİ VE KALKINMA BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00035</kod>
+			<aciklama>DİLER YATIRIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00036</kod>
+			<aciklama>GSD YATIRIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00037</kod>
+			<aciklama>İLLER BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00038</kod>
+			<aciklama>İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00039</kod>
+			<aciklama>MERRILL LYNCH YATIRIM BANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00040</kod>
+			<aciklama>NUROL YATIRIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00041</kod>
+			<aciklama>PASHA YATIRIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00042</kod>
+			<aciklama>STANDARD CHARTERED YATIRIM BANKASI TÜRK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00043</kod>
+			<aciklama>TÜRKİYE İHRACAT KREDİ BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00044</kod>
+			<aciklama>TÜRKİYE KALKINMA VE YATIRIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00045</kod>
+			<aciklama>TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00046</kod>
+			<aciklama>ALBARAKA TÜRK KATILIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00047</kod>
+			<aciklama>KUVEYT TÜRK KATILIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00048</kod>
+			<aciklama>TÜRKİYE EMLAK KATILIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00049</kod>
+			<aciklama>TÜRKİYE FİNANS KATILIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00050</kod>
+			<aciklama>VAKIF KATILIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00051</kod>
+			<aciklama>ZİRAAT KATILIM BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00052</kod>
+			<aciklama>ADABANK A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>00053</kod>
+			<aciklama>BİRLEŞİK FON BANKASI A.Ş.</aciklama>
+		</banka>
+		<banka>
+			<kod>99999</kod>
+			<aciklama>Diğer</aciklama>
+		</banka>
+	</bankalar>
+	<dummyLookupData>
+	</dummyLookupData>
+</kodlar>
